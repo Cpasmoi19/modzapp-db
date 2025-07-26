@@ -1,0 +1,874 @@
+[
+  {
+    "id": "gta5-ameliorer",
+    "name": "GTA 5 Ameliorer",
+    "description": "Grand Theft Auto V Enhanced Edition",
+    "downloadUrl": "https://flashbang.sh/dl/l8c8BGKmDGTPWkqFgIe-b2jpwThQhEesknFB-jk0ohnACTiVwItnFcQGlw96ZLIJZEIyeICw-8Th5d2qOT7DVKUzQIpHFrpCCjdLlFiuCGXSpNW7T42qwjYbHpiknVMOl7s2?v=1753430313-UcmCBECaM9Fw4G6YW4ofP2UzzTWxE9Gw4GcaQU9xJjI%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/03/gta-v-enhanced-preinstallled-steamrip.jpg",
+    "size": "120 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "rdr1",
+    "name": "Red Dead Redemption",
+    "description": "Red Dead Redemption - Western Epic",
+    "downloadUrl": "https://flashbang.sh/dl/XSa_cxH5QJQo9V_A5cQV5PAv9mtYp_2oc3xQSkuM96lNhj4a5oYaAMns9IFEif3OxWgNimi1Q45GX1e55t50F7VGxpODBvp-5dLs0Cyi4LN_WWIjiYnDfN0?v=1753431198-CqIyRSKQcOHVhqaaw5z3qxaQ3c%2BoY4IIk5BvwhGiomk%3D",
+    "imageUrl": "https://static.wikia.nocookie.net/reddeadredemptionfr/images/6/67/Red_Dead_Redemption02.jpg/revision/latest/scale-to-width-down/1000?cb=20211204094048&path-prefix=fr",
+    "size": "15 GB",
+    "category": "Western",
+    "status": "available"
+  },
+  {
+    "id": "rdr2",
+    "name": "Red Dead Redemption 2",
+    "description": "Red Dead Redemption 2 - Ultimate Western Experience",
+    "downloadUrl": "https://flashbang.sh/dl/A95nLsQqI_vNJjFZRgB6XwCK9g4ePOhAR_VAXf8qwXr5O-wGB1-zJ-aU_ycXf_stht9rj94CxzkYxR6GF4eP1Yi-rt1T7G7yMr-zMhKfQXKzLqTb1XnyrsA?v=1753431325-tR4s7hXdShyGAi%2BOZ%2FiAyH9y5BoAn1zKTWrTEvXHyZU%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/06/red-dead-redemption-2-free-download-torrent-steamrip.jpg",
+    "size": "150 GB",
+    "category": "Western",
+    "status": "available"
+  },
+  {
+    "id": "fh5",
+    "name": "Forza Horizon 5",
+    "description": "Forza Horizon 5 - Open World Racing",
+    "downloadUrl": "https://flashbang.sh/dl/opVyaJrVg9WO1VTtrgEkFCV9ZckZPzCgQa9jHb7HrKm1TySMW7g5yWsvpkZSSAickvLd4h8P6a41NHBziyxs8IyzCEqpkv7TV4Xjb0ZqEN6AdiBhRElZS4NaoMk?v=1753431429-M2JNFyoIDIN4F2wO0r7fQVRugKhbo6NnYNfHdKeTfA8%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/11/forza-horizon-5-free-download-preinstalled-steamrip.jpg",
+    "size": "110 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "fh4",
+    "name": "Forza Horizon 4",
+    "description": "Forza Horizon 4 Ultimate Edition",
+    "downloadUrl": "https://flashbang.sh/dl/XkkxVBVhJuHz2hReHYwn2Pp6jyWPYpJFDzsYC3ihMWiyBufp6ogDowrdTeu12TNN03nrpba-vixB___YOX5YZnBYEEHgGrcnQJyPc1p3ItFZCK2rT11uwQ?v=1753431528-2Q6N4mET0azewIXsStzfcoLJIL6OHaHwDVeUm1TR6WU%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/06/forza-horizon-4-ultimate-edition-free-download-preinstalled-steamrip.jpg",
+    "size": "90 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "god-of-war",
+    "name": "God of War",
+    "description": "God of War (2018) - Action Adventure",
+    "downloadUrl": "https://flashbang.sh/dl/Udnps-PBt_0Ug1LrMgZTLqPAbwEEG-qIgZtdy1JBub8otBcyLwHpG8EmtRUU12DvuCR5DasRbvifm3ONWlGAh5gnouhvUiiegkF-rUag0JDyf-B70Qp5SDjO7mVsFKE?v=1753444790-jKk0jsi8P772rJZ63owtfql6Gm1OwffjJ1abk2XMqU4%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/01/god-of-war-cover-steamrip.jpg",
+    "size": "45 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "black-ops-3",
+    "name": "Call of Duty: Black Ops III",
+    "description": "Call of Duty: Black Ops III - FPS Action",
+    "downloadUrl": "https://flashbang.sh/dl/YFLGEUp02fYtZSP5jKwiMd7Y18u6lDKIffJL1Du6dW81RYWM0H9Fcub3z0EZUbbo5hPPwamHjn1iqhjCVKG28jTfz_8Tvk4u8pFW4ZkW8dKNLAHwza5ZBGAYkHjoHEQAYw?v=1753447766-pv7kJCx2XI3brYwKhdCGzNbhb%2FKswG33u%2F0OWh%2Bv6bc%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/08/call-of-duty-black-ops-iii-free-download-preinstalled-steamrip.jpg",
+    "size": "80 GB",
+    "category": "FPS",
+    "status": "available"
+  },
+  {
+    "id": "black-ops-2",
+    "name": "Call of Duty: Black Ops II",
+    "description": "Call of Duty: Black Ops II - Classic FPS",
+    "downloadUrl": "https://download191.uploadhaven.com/1/application/zip/DwVy6cgG9hpmaQLcnE4wjwRYhH8B6KLGIpVxh6nO.zip?key=ndNz-GqOqU3NJzPpXCKagg&expire=1753718829&filename=CallofDuty-BlackOps2.zip",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/07/call-of-duty-black-ops-2-free-download-torrent-steamrip.jpg",
+    "size": "25 GB",
+    "category": "FPS",
+    "status": "available",
+    "backupUrl": "https://tunnel1.dlproxy.uk/download/CoD_Black_Ops_2_ALL_DLC_backup"
+  },
+  {
+    "id": "miside",
+    "name": "MiSide",
+    "description": "MiSide - Simulation d'Aventure Interactive",
+    "downloadUrl": "https://download192.uploadhaven.com/1/application/zip/K0X9khr96bXHGFyvH5OiKcFeUP9fmmQSxWgzPH7u.zip?key=XgyQjI2UuSIEbO_-teb-jg&expire=1753719002&filename=MiSide.v0.93L.zip",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/12/miside-preinstalled-steamrip.jpg",
+    "size": "3 GB",
+    "category": "Simulation",
+    "status": "available",
+    "backupUrl": "https://tunnel1.dlproxy.uk/download/MiSide_backup"
+  },
+  {
+    "id": "schedule-1",
+    "name": "Schedule 1",
+    "description": "Schedule 1 - Survival Horror",
+    "downloadUrl": "https://flashbang.sh/dl/RLrJarv5BHpOLZ9hpjPgLVLegeuuyTIiJJ76O5vgS4Xqll_P7nwdi6tJ7ii58wlzu1-fssJI0YFbv0FCOZCPm0oetbvPcAvViFV5BaultLiqvo6XqRMuoH_Lgkw0Dg?v=1753568371-0vTbTO370R0foNjPAm2A55aq9aTWQQR4S2Xnqh06X3s%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/03/schedule-1-preinstalled-steamrip.jpg",
+    "size": "2.5 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "storror",
+    "name": "STORROR",
+    "description": "STORROR - Parkour Pro",
+    "downloadUrl": "https://flashbang.sh/dl/vlsf50KaUbIMQZjstXJD-KQTxZhblaC6Bp-01t4J-BsHjcvfOOPbVMorv1LPkB2s5qzv06RD4aByq60Ea13z63_1Au8DSYEssj2Y4t7OXXMRuo8B6Kh6TckKHCrqQIy03AB8x70d3zE?v=1753492270-O4u1yDLV%2BaFhUYFf%2FDkloOf1ggYJSLLdDuhILhn3uJg%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/04/storror-parkour-pro-preinstalled-steamrip.jpg",
+    "size": "8 GB",
+    "category": "Sport",
+    "status": "available"
+  },
+  {
+    "id": "mafia-2-definitive",
+    "name": "Mafia II: Definitive Edition",
+    "description": "Mafia II: Definitive Edition - Crime Action",
+    "downloadUrl": "https://flashbang.sh/dl/SXbubOitx126gbKyjPnMj5fkbFLKhmB59hEyntWsXy5of6NFo_j9wN_hVDqO0wl2HCw0ZSZPmrYJx5lv00UhoJGh9u4FPjpYc3HEkKO30Y89pf7suvWTeUoKajvek7Yu?v=1753492440-CrHq2djvYTlhGuqeJg7Wbyfw2WJ%2FOQ3wgIiwa9lDVEM%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/10/mafia-2-definitive-edition-free-download-preinstalled-steamrip.jpg",
+    "size": "50 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "gta-trilogy-definitive",
+    "name": "Grand Theft Auto: The Trilogy - The Definitive Edition",
+    "description": "GTA Trilogy Remastered - Vice City, San Andreas, III",
+    "downloadUrl": "https://flashbang.sh/dl/SXbubOitx126gbKyjPnMj5fkbFLKhmB59hEyntWsXy5of6NFo_j9wN_hVDqO0wl2HCw0ZSZPmrYJx5lv00UhoJGh9u4FPjpYc3HEkKO30Y89pf7suvWTeUoKajvek7Yu?v=1753492440-CrHq2djvYTlhGuqeJg7Wbyfw2WJ%2FOQ3wgIiwa9lDVEM%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/11/grand-theft-auto-the-trilogy-free-download-torrent-steamrip.jpg",
+    "size": "45 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "gta-4",
+    "name": "Grand Theft Auto IV",
+    "description": "Grand Theft Auto IV - Liberty City Chronicles",
+    "downloadUrl": "https://flashbang.sh/dl/j4ifRPKMmQX_r-Fa5Ss4rpGyZkQ0ctHxJJmhtoyjowiMpSBkpcss0oT7OZT1BVG9H9hGo0KONldF3UoqlyOJGUOP_l0LolX6dG3YtZypDwi9Mdu769K5d1F7?v=1753492798-8VC83fwR4Tkmjh9DH%2BEUFJIGNQRAZBgMt01AFpvz%2Fc0%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/06/grand-theft-auto-iv-free-download-preinstalled-steamrip.jpg",
+    "size": "32 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "euro-truck-simulator-2",
+    "name": "Euro Truck Simulator 2",
+    "description": "Euro Truck Simulator 2 - European Trucking",
+    "downloadUrl": "https://flashbang.sh/dl/odyH6_CkqkP7DmtpxjZ4P5omPqgZMYsIIhW5786aXHOB8JBpf2LedY8lVklVsQ8uC8HUjYQMlRlJ9UQWk1ck-Dxb0paJb4L_tJ51syDl6t3DPmtoq8xD1n6Y2kH_HnZmhlyoQSE?v=1753492911-M2HpkB%2B%2BFYb%2BCtmeErmo%2FLWuYvc9ReoTeV8r8EQG8Ys%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/05/Euro-Truck-Simulator-2-Free-Download-PC-Steamrip.jpg",
+    "size": "12 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "spider-man-2",
+    "name": "Marvel's Spider-Man 2",
+    "description": "Marvel's Spider-Man 2 - Web-Slinging Adventure",
+    "downloadUrl": "https://flashbang.sh/dl/7i65zlpDoecAj5X6AkZL-8YDcmkaC4yFT3yarpfVryyB3umHAY7ZDunTYe7l8cdoMdlaw5QULkJCSDxkdI2RusTdAipYDZ535oHR5KMKuLo4EaEGFvL3ylr7FPx9b1Rr5gYxE5ZuRpDd?v=1753492997-nyWly6m1JdwwlQqH6%2BmlJ8ykyji8FsyL1KvhautiQAU%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/01/marvel-spider-man-2-preinstalled-steamrip.jpg",
+    "size": "75 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "streamer-life-simulator-2",
+    "name": "Streamer Life Simulator 2",
+    "description": "Streamer Life Simulator 2 - Content Creator Experience",
+    "downloadUrl": "https://flashbang.sh/dl/Pee4v1xYBvYjYu4iwslky0Yfgzdr4H43ZsZwS4PvuFriioLJv0BCsM-i2hZ6Fz4Z1dguRhH-4XUUoYZnUZXXiN2q6wnTIqyNYAf_dBMZrIRssytAbgiALHrHl0caVvK2tPYZLVNPONEsQzMzcE8?v=1753495707-%2BwG30XB4gGKSgttXiKChuXa07%2B569Ch9CiSAb5NxFxg%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/01/streamer-life-simulator-2-preinstalled-steamrip.jpg",
+    "size": "3 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "tekken-8",
+    "name": "TEKKEN 8",
+    "description": "TEKKEN 8 - Ultimate Fighting Championship",
+    "downloadUrl": "https://flashbang.sh/dl/q4akHoDNwSqiKi8l0yHnIghj7Wbx4DJjBHmarRDSvrRF7LnRB5DF4907QtIqqLHYvtbk_9WYItlwuuvVmdNFuJJHHzTUdNVfy_BsIlH4X-q7ONPQcFwR95STJe8lBA?v=1753493645-e8uYUBWHqF3yxZSYJFfcYYD9D4z%2FKlXDS4ZHURQFtrE%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/01/tekken-8-preinstalled-steamrip.jpg",
+    "size": "60 GB",
+    "category": "Fighting",
+    "status": "available"
+  },
+  {
+    "id": "doom-eternal",
+    "name": "DOOM Eternal",
+    "description": "DOOM Eternal - Demon Slaying Action",
+    "downloadUrl": "https://flashbang.sh/dl/ZNVYw8NUWnaZBNEW5q16crru_FGkCrx9s6udZyXIhaqGUegJSVg_y7peUrz5GqT7QFMJNEsb6Spa5R-aR8jWjlGFX7J6g18NhEB9pBvcq1lWslU012scE0ij_NAv-U0N5w?v=1753493776-pPHTg4wx%2BscMs8VJvalQPPjnAasBrXBG%2FQV0BiFIUbU%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/08/doom-eternal-free-download-preinstalled-steamrip.jpg",
+    "size": "40 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "watch-dogs-1",
+    "name": "Watch Dogs Digital Deluxe",
+    "description": "Watch Dogs Digital Deluxe - Hacking Thriller",
+    "downloadUrl": "https://flashbang.sh/dl/X4G4NOBqPuva2be-NyIKLwG3zsHNmWzaXXGtq0nBFoKZSpUxtXnav9oVXasxkXSXnCZtEGPok41SwD_9uRAn4-Zm0Z7l848vNwzLB6L6TJqdKdWeK1j4RfQqU-_QFg0?v=1753494159-wSLgjTZFv5NhmVKGSMeVzCM3DKIsEuN1s2f4gx7925E%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/12/watch_dogs-complete-edition-free-download-preinstalled-steamrip.jpg",
+    "size": "25 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "watch-dogs-2",
+    "name": "Watch Dogs 2",
+    "description": "Watch Dogs 2 - San Francisco Hacking",
+    "downloadUrl": "https://flashbang.sh/dl/v3aP3ei3aCcAJW2Nz5Cxxf1uZ_9UPsp21KMy6JFy8M1-apI-3gh4pLyctSlGhtmjXk3tsxI_Z79cCIOtb8pleJ8ScAJ1ss0fHT40dlNzPVRmW-knzRlAG2nLWHAAQ3_2ZA?v=1753494310-fuyO2VxAwfkxvLZjHMewn2%2FAqu1Txrl%2FImRvNhAOmGA%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/09/watch-dogs-2-free-download-preinstalled-steamrip.jpg",
+    "size": "30 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "watch-dogs-legion",
+    "name": "Watch Dogs Legion",
+    "description": "Watch Dogs Legion - London Resistance",
+    "downloadUrl": "https://flashbang.sh/dl/HQRzslRb62XOvdCb4n4vkGdkXKALgTchozeFAbkZYq9C0dCqXWheoyMO4aP9-hqyIDLn-jic55c94tmaWxDWEBjykVlDuV2ugZgY6bwE7YNjF3qccEyMRDB6pKiAkPBUuWBSeHwu?v=1753494409-wJFgk9XidC94MD2LyYA7U4Z7cLMzI75CSjTGx4iX%2FEo%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/01/watch-dogs-legion-preinstalled-steamrip.jpg",
+    "size": "45 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "skater-xl",
+    "name": "Skater XL – The Ultimate Skateboarding",
+    "description": "Skater XL - Ultimate Skateboarding Experience",
+    "downloadUrl": "https://flashbang.sh/dl/rCSsYy8SRoJ4C7c1XBvl7XHe4h-LhWOjYj-CYhrOadhss96KmJ_SiuMsFAQVFOjQ7Nb1sJzfWq3fV00aPf6p8_QSCP2-oX8gRrqicMsKRmtBj-PFnHkbnwbYMP3AUrfFox-E?v=1753494860-5vhru4COmDhz2ZF8I48dh%2FFFJs4ypgBxSlWBzUnKs4c%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/04/skater-xl-preinstalled-steamrip.jpg",
+    "size": "15 GB",
+    "category": "Sport",
+    "status": "available"
+  },
+  {
+    "id": "wuchang-fallen-feathers",
+    "name": "WUCHANG Fallen Feathers",
+    "description": "WUCHANG: Fallen Feathers - Action Adventure",
+    "downloadUrl": "https://flashbang.sh/dl/ieqWRRpeZ8Pj4ssNt4voI70pCIV8SgUhHqw_zgvGeZcLaerJttkgpx5WcBNbVy__ltCyFa-tPYFbJKKAaCy2FlQylmlOKoYL0DD1l3VHXdlJTTE5-HcQ4bgS_k9MaehNlXHF7iPspVNfHtO4?v=1753523313-3zYHB6%2BnpqTEFwZheI4QnsTpr8ia1X6taArkwQejlUM%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/wuchang-fallen-feathers-preinstalled-steamrip.jpg",
+    "size": "50 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "dragon-ball-sparking-zero",
+    "name": "DRAGON BALL Sparking! ZERO",
+    "description": "DRAGON BALL: Sparking! ZERO - Fighting Game",
+    "downloadUrl": "https://flashbang.sh/dl/coCgPfVKZOLZDULzNACowHeuCg7fiKdqWKC8O7FshRMzzfYjyaFY7ED5LFY_2Rx0lZ-gbf5tRAabO0m9ZgigOeYZtTQJsZk1dmsDfx_alxLo-YN0iJpG6IK5O-ZLqckPhFVQ25nOmg?v=1753524707-BKDfZrozozPLx2W7Tg5JcXFAlE66SEbimvc9X9G51Vg%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/10/dragon-ball-sparking-zero-preinstalled-steamrip.jpg",
+    "size": "40 GB",
+    "category": "Fighting",
+    "status": "available"
+  },
+  {
+    "id": "batman-arkham-knight",
+    "name": "Batman Arkham Knight",
+    "description": "Batman Arkham Knight - Premium Edition",
+    "downloadUrl": "https://flashbang.sh/dl/dIqKLJc-46rEMl67A5wUbHPf0PNIYuNY1TqRhGkONwfBU1Vct_EGZYVvbAXhJEvFiL-4ciCtuVOzhX-cmUj06iqoPhca1NZOY783IpwR63IwB95SeGQW7O57A2VvvA?v=1753525046-fwfzLcx7uaaPFYufTuFL1qq2t3RbbafBZtwMbvguZXk%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/10/batman-arkham-knight-premium-edition-free-download-preinstalled-steamrip.jpg",
+    "size": "60 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "peak",
+    "name": "PEAK",
+    "description": "PEAK - Extreme Sports Game",
+    "downloadUrl": "https://flashbang.sh/dl/OCDa7YFTOuBXZDeNWPgDQVHdB1AMDURAC6AGFXhjNtGk21GPHYGlJVqA7gvrML1px6HHcq7dMqWVbmYiJW3XYOlgKuJMj36_aNLFV45_2Qjfsnte0p-LK1U?v=1753525241-0TxUPefT5lo87c3wEdOL9bnhNal8Zdnywci%2Fkhy%2Bork%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/06/peak-preinstalled-steamrip.jpg",
+    "size": "8 GB",
+    "category": "Sport",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-rivals",
+    "name": "Need for Speed Rivals",
+    "description": "Need for Speed Rivals - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/Aer1n9XyWchl1iT-qNEwBJGVkDmNXJzQa9q17gcbDdwsdgQmlLzfLH0IgXuyfTZMR6XbRtm2ZdszJySY1mDt_C0Ckw7qZz4QSBjgbikQrRqOhLEVCDCRUuEM0g1HxPbo_kPd5GbiuzrL5w?v=1753541030-OfKFZTc42MJVFm%2BU8PmLC%2BAwuebJtuGVKq7zlRLs8g4%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/09/need-for-speed-rivals-preinstalled-steamrip.jpg",
+    "size": "18 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-hot-pursuit",
+    "name": "Need For Speed Hot Pursuit",
+    "description": "Need For Speed Hot Pursuit - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/Va-gwWDeTy6oPQwKPsAPOXAcPJijJVQ7PixROdu_sqS33Lwr3FKvZeT9GpuQog4Qranv8tdtmrQdNa7-rqAICtm7cAA69l2Rjl6QkongjxtP3yDNXV8824eqyV0YFhueM2Gq2Q?v=1753541070-ENbFZxNmmoF05NniudmL1lRrgRq6N6L%2FRxP8HIJsQVk%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/04/need-for-speed-hot-pursuit-preinstalled-steamrip.jpg",
+    "size": "16 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-porsche-unleashed",
+    "name": "Need for Speed: Porsche Unleashed",
+    "description": "Need for Speed: Porsche Unleashed - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/XDZs1WywsEm55lPmgs9L-zl8Y8leHq8iCz59n3HGPpd1luJnCMVuZr6HypebH5kikUwoiP-VcwRILOc_y3OHbhOPTeTcVxNaceDNjANIUJbphVRHYJNcYK2uyHBQ8_LoNZHfABJ8Bz4xuKdRd7GENrrWy7Q?v=1753541323-sWydA%2FH%2B6cws9PVbxXjlqD8kX5px5bEKcxkLqfPcooY%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/04/need-for-speed-porsche-unleashed-preinstalled-steamrip.jpg",
+    "size": "2 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-shift",
+    "name": "Need for Speed: Shift",
+    "description": "Need for Speed: Shift - Racing Simulation",
+    "downloadUrl": "https://flashbang.sh/dl/uXIpVxlwimBsXAXH1fmpx9CdOWi-uYTF8AFcGi-5VMWz_kdGNiZnZMI22bTfg8_XY4w2acmrZxTFZMefmxT3HjfB5LbFYjuZhDImGkNcBmqjWCtIsOcd-twip2wL4pC2UuAKpRllxKzm?v=1753542580-FDaRRMO6jXrshfSPy4lBUx8kzybmuVlikikrp90YPMQ%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/02/need-for-speed-shift-preinstalled-steamrip.jpg",
+    "size": "6 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-carbon",
+    "name": "Need for Speed Carbon",
+    "description": "Need for Speed Carbon - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/XpEnvbdIdL7LonAMxkUL5-L-YUFX9xZ84u2gDuyOdxyH-KBm8G0f5mukAIY_dgQYnuoQ-qahmT0shvOXmaNYoNKJTTutj6W5jprNws3fnAXikTnWWL_acHIh5yJHYHgUux_g5X7e74olMA?v=1753541426-fWZTtdmqUuj2oerus8tEJ01A7UmcUWOa1xIh7MoQajc%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/12/need-for-speed-carbon-preinstalled-steamrip.jpg",
+    "size": "4 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-payback",
+    "name": "Need for Speed Payback",
+    "description": "Need for Speed Payback - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/ITZFLGmeSFrDkN1IugeGiVVdcitw85ZUrl3YZMfUCnhUIKLy6JXoAZn7ryKoySNbgClMxOfe71Z1-3VFyz6YwPFhHZFXSniO5XTj3Uy4DsTvuMIdFea-IkAsIawITs2Za0xQncRWeJMK2wc?v=1753541562-ENedl71DBcgl%2F7qvqMpM1EpivFh8ES1mopHlkz%2FkRHo%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/07/need-for-speed-payback-free-download-torrent-steamrip.jpg",
+    "size": "20 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-most-wanted-black",
+    "name": "Need for Speed Most Wanted Black Edition",
+    "description": "Need for Speed Most Wanted Black Edition - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/mgHNQI_cWY_M_qD-ZUC-PyV7ZUfoHDCDC8-vyjV50qa_jYb7TsVIA-D4myfmzo5LxysX3o-m3ibcjFP-BClAdMzGjyQnQq6DDrF1g-tBXeJ4LH0aoBWPtdQGMDHl8inr2q39jpPaArV3?v=1753541612-j8uEHcLq7hK%2FjMmh5hUvD4TSoBrPT6cNNM60DSEnaQE%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/06/need-for-speed-most-wanted-black-edition-2005-free-download-preinstalled-steamrip.jpg",
+    "size": "3 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-most-wanted-limited",
+    "name": "Need for Speed Most Wanted Limited Edition",
+    "description": "Need for Speed Most Wanted Limited Edition - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/nBmB4K_O6WTCKnUWgQek7YcsqowbfqasDkugBCQ69IWHjW8EBsfumc2MHJ9bJjbYHCw01mQJCKKzyLlMbJHpMbMZT5KHljQo9Zyk02xKHmLkuIWksOud2zws5nfE5D7v1gUD6-NAmH0vxDqlRXL4gWbe6N1g0mV8cnQ7ep1iIw?v=1753541656-%2BF2Y9hm6ZoY3l%2BHTXe03WbY1JOw5iD3b0WMvg9PT0ag%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/06/need-for-speed-most-wanted-limited-edition-free-download-preinstalled-steamrip.jpg",
+    "size": "4 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-underground-2",
+    "name": "Need for Speed Underground 2",
+    "description": "Need for Speed Underground 2 - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/RomtR-KmLzwAz5alqtNwma2Il3-E4XQ__Wx_ib-ypWTQpt1o1zS-jusCfej8SILOwH1gWGfGzVUBrISfOHUgCbOwrnzvcCzgH-g9XDr32PP_Lw8UZLWdwCCXnIvZXgrefXGk6FsR7iD3XtKsSeZ0MB0?v=1753541699-1UzELvf3Gs6yxgZAbrQAx86am36Kyv4V5KzpKWkXJbw%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/06/need-for-speed-underground-2-free-download-preinstalled-steamrip.jpg",
+    "size": "2.5 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "rust",
+    "name": "Rust",
+    "description": "Rust - Survival Multiplayer",
+    "downloadUrl": "https://flashbang.sh/dl/m8oXBHbPWezXIM1xjNNxpGITgSezt_xX3qM5bmnGguIH593IFWNDY6nQMU6oJeFqZOmzbR7EaQsb-mVxlu-7PtcDbkkq1u8Cskm_MZ56ZiWATWtxqF-YPTU?v=1753541767-%2BD7kXI4QedoH3NPb5FW5Z9pouSoA4st7xSvLMQyiNwA%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/05/Rust-Free-Download-Pre-Installed-Steamrip.jpg",
+    "size": "20 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "god-of-war-ragnarok",
+    "name": "God of War Ragnarök Digital Deluxe",
+    "description": "God of War Ragnarök - Action Adventure",
+    "downloadUrl": "https://flashbang.sh/dl/J7AByZVdVGNQuA0P62W96w7NNWbRfS9d89oW0M0bROjUiaiBD5f3hVcWIMJNj4FEaWVhgXBcMvtySy6c9bAy3egkH6bACuPPVHS-42yHznZgQC8IKHPUULOikVylb15i2A?v=1753541878-WmERNXEk5H0wSF5jBKFoMf1YdQzh7lbBJv%2Fcc26g0ag%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/09/god-of-war-ragnarok-preinstalled-steamrip.jpg",
+    "size": "80 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "farming-simulator-25",
+    "name": "Farming Simulator 25",
+    "description": "Farming Simulator 25 - Agriculture Simulation",
+    "downloadUrl": "https://flashbang.sh/dl/4IQbA52B32e6BinWzXxt0ncisVhp_fmpDkR3H8u2zkHPBnd96_ELyLkzH8rgq5vcfL4Gbmv_XiB6Bl-1f3gTV4X31LDUWHd4nhrL2iMN8S4_LQDExKsl9pSLvg1BB3pA2PMr?v=1753549650-ZzC5WOEwCYmboE8yG15Dpo%2BPXc3uYmSL3ZG1LJy1JbY%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/11/farming-simulator-25-preinstalled-steamrip.jpg",
+    "size": "15 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "supermarket-simulator",
+    "name": "Supermarket Simulator",
+    "description": "Supermarket Simulator - Business Simulation",
+    "downloadUrl": "https://flashbang.sh/dl/q_mNThtIm_fKzHhL-NaXAt2ZvLWl4lhYJfdLvkEaJqlYg3v60Txol4hhWIIcxB2Ed6Ik2jLJ_L9soBif7G_F6z8LufgougTOeGJa1xOb4c-ozmD8GdlBr8qr9P1LxmIJjihmQw?v=1753542090-wKg7PdVR8NQWbHwrx%2FX6VyEErBghP%2BY%2Bu95B%2BYDvfJU%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/02/supermarket-simulator-preinstalled-steamrip.jpg",
+    "size": "3 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "farming-simulator-22",
+    "name": "Farming Simulator 22",
+    "description": "Farming Simulator 22 - Agriculture Simulation",
+    "downloadUrl": "https://flashbang.sh/dl/iEtbo603FF39cd5yqihWiyauxbETkyNxmIz7JWObu5zObU45uwyd1Ry1k4cwHk2LqhGfvq19iEMlWNNouCWyVAzhAUA71TO6tKhcWfNuMpRwrpHD_TU_QaFXmpwxF3132_VL?v=1753542153-scHsEsWKV59lxQq7zJawKKXSHQKJBIaIEawNA4F0tsI%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/11/farming-simulator-22-free-download-preinstalled-steamrip.jpg",
+    "size": "13 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "phasmophobia",
+    "name": "Phasmophobia",
+    "description": "Phasmophobia - Horror Investigation",
+    "downloadUrl": "https://flashbang.sh/dl/NaMqZo5nT6jVUgwgE7deXyfY7OWG7ySYlSI3OVuEO-UZ7kDmZ4HzqqxhDnRJ34OT3ctWWGtz5u905MaD1awix8H_A0o27YZkD07zRMRaSAhL5agMt4zyJK3CdG3eHSvYgQ?v=1753542383-8l87Y5GOWY0JXtX1YbpqA2eljlKYKL1NxujzGyX3J2c%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/05/Phasmophobia-Free-Download-Pre-Installed-Steamrip.jpg",
+    "size": "15 GB",
+    "category": "Horror",
+    "status": "available"
+  },
+  {
+    "id": "far-cry-5-gold",
+    "name": "Far Cry 5: Gold Edition",
+    "description": "Far Cry 5: Gold Edition - Action",
+    "downloadUrl": "https://flashbang.sh/dl/30IIvJZdmeaFJiGwP_zi_XtLb2DlGwlIx9Nn4Atxns-xphGJDdSW6ZAePZc9TlZEh1bsBvCE0zL92sw6VaGA_02jjhILtrEg9tiWN-9pe6eY403hAXGLWaYFm8Wt7g?v=1753549721-eQ0hlUM476pLLrCFTL8kjlcPyPNNhZY%2FpKTAVMvTUFY%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/07/far-cry-5-gold-edition-free-download-torrent-steamrip.jpg",
+    "size": "40 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "mx-vs-atv-legends",
+    "name": "MX vs ATV Legends",
+    "description": "MX vs ATV Legends - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/2wi4RP27xQe4P9jRTiOa9IN5HaKD9dkmkNrJCN_LpzPvrGdeqhTCkb3w9iPwfarZ4M5nakwUkTuo8bTkq4AIWuxVaHY5DpPdQJbqSaV-oqzGWgLy-Rwfn5-azmMV9cSJ5xt8FA6Q?v=1753549813-fX%2FjOPS6F06xoGmizrf7pNbGjIOdP6EaLYEnBowAx3E%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/01/mx-vs-atv-legends-preinstalled-steamrip.jpg",
+    "size": "12 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "beamng-drive",
+    "name": "BeamNG drive",
+    "description": "BeamNG drive - Vehicle Simulation",
+    "downloadUrl": "https://flashbang.sh/dl/l6UOZhZSOHXK6qJGhKZKAbwJ5X5_zsYqc70UoHRXxbIWU9p52yuIFJIxfh1-DtRtSF-_DpTUleMVJNyD8Dj1U5PL3_NgXB91SCt1o3NivcF94S7d9ciOtyVWR7O0aBBQ3g?v=1753549950-PaiH54YUZyxsEWoc%2Bh8z1P%2B6qxOhW7jGsNy7tisG6dM%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/05/BeamNG-drive-Free-Download-Pre-Installed-Steamrip.jpg",
+    "size": "18 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "mx-bikes",
+    "name": "MX Bikes",
+    "description": "MX Bikes - Motocross Racing",
+    "downloadUrl": "https://flashbang.sh/dl/0B4g0CJlDhLvQn_WVgvNuGmQwCQ19SARfsaQIS9JKYIonLyU58KZV6rhQCsYwlIbwNdQ-wk8XAwWqUgu6KRZYsMNsOp9C3_JEKUAtcTSQg2z9WGGYPZrVv2zCtJI?v=1753550007-4cqsz%2Be8pbjw7LA9kzDdjBaZ3RosF%2FLNNtOEu90GgDE%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/07/mx-bikes-free-download-torrent-steamrip.jpg",
+    "size": "5 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "cyberpunk-2077",
+    "name": "Cyberpunk 2077",
+    "description": "Cyberpunk 2077 - Futuristic Action RPG",
+    "downloadUrl": "https://flashbang.sh/dl/V1k-nqX0GPrpVDud9DU0g1A0iFE-H31EF9jV1QVfnjl52-k8CDias1bQgVU0MsA1s-msfk-KWcE6jxzJfbfL5kBcJduJc2koPDluVA8fQW4sLUICxOySBWaxWCl6TEHiVg78q0joWg?v=1753539377-AWYoa8BP%2FRpgGrFgQmm6HYHxtTsyPsqPZ4dHG%2FnX3TA%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/06/cyberpunk-2k77-preinstalled-steamrip-1024x576.jpg",
+    "size": "65 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "dune-imperium",
+    "name": "Dune: Imperium",
+    "description": "Dune: Imperium - Strategy Board Game",
+    "downloadUrl": "https://flashbang.sh/dl/-rfxIsEbe7Jsz0L7nLUE-CZIIsrmQ5Ydn4fVzHLb6RK7mGTwW2DQWOivUc4WqNy4kAJUCLoja90uVNp8IB0k-HJPIm8wyt7mdHA0iO89gZjg29m7bNz4nHQfaCvPYc7zEy0?v=1753539838-0HlAt5RD4mtsBEuarjEvDZoynPcs7WDUTt4oOpvzU0I%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/06/dune-imperium-preinstalled-steamrip.jpg",
+    "size": "2 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "dune-spice-wars",
+    "name": "DUNE Spice Wars",
+    "description": "DUNE Spice Wars - Real-time Strategy",
+    "downloadUrl": "https://flashbang.sh/dl/V6YQbdIsBtgQI3uCKU-QmR30IiE5NqU_frIFTB7AgQqoyF55ITtF5pGBsDTxL_76M-1MOaqWXxvA85k5uvdc5jcXbI8KSKI9jeZ2kkQlFCpODuxg4hsC5ty0sjZAQlSPsKokWg?v=1753540635-Kr2kXMD3gogsxPsFqMYLMKeFc8Km%2F3qwurtco6In6A4%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/04/dune-spice-war-preinstalled-steamrip.jpg",
+    "size": "8 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "pc-building-simulator",
+    "name": "PC Building Simulator",
+    "description": "PC Building Simulator - Build Your Dream PC",
+    "downloadUrl": "https://flashbang.sh/dl/vgbsXodwjGTpErtPX4XadmGlRSn7HaIlexjn2pPz1wvLjR9MdonpEP7fg5BS2sFcwSKSzxxlnmIhLyP43uIRuzuYzOYqWsOBmCZiXyq7Jr0QU6pyK9pZTDSB2JdLTdvnKc70kD4rfe95og?v=1753540096-Jxa1n5mlQ5so6bIrcqzF5%2Fpap%2F6anDpV2VnRYKti2SU%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/05/PC-Building-Simulator-Free-Download-Pre-Installed-Steamrip.jpg",
+    "size": "15 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "pc-building-simulator-2",
+    "name": "PC Building Simulator 2",
+    "description": "PC Building Simulator 2 - Next-Gen PC Building",
+    "downloadUrl": "https://flashbang.sh/dl/glays4hlxMZSG8oAsIEyMRZ2803pp0frnhMJkxkatoD__Fey2iSf077Jri7js9EinKEo-hIy8zFtt_5HAFUQ34sfxvwOiivhiNIIwtsYXr4cQoV-cGSjk5J8UORQk2Olbi_8PraH?v=1753540161-leR8A0TChkT6WUb%2FtpSSAKttAOEUgKLnUNupThs9u2Y%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/10/pc-building-simulator-2-preinstalled-steamrip.jpg",
+    "size": "20 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "nba-2k16",
+    "name": "NBA 2K16",
+    "description": "NBA 2K16 - Basketball Simulation",
+    "downloadUrl": "https://flashbang.sh/dl/0HRMikpjT8akZ0KIKSCnODWXznPK0AUPb5Igi-5Ny6RpRiDUhIr_rh_Ah-Zn8IpjSw1zk0OE3F1TKBfsZ9j4LLrw8ISqxzG0lJKwoJ0ilopK0qhbI_BSL9piZKKq7uui?v=1753540241-H%2F2LEqjKna8g%2FXNLXj3tzhKhM%2B5gJcfBUhhkOX3FDhI%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/03/nba-2k16-preinstalled-steamrip.jpg",
+    "size": "30 GB",
+    "category": "Sport",
+    "status": "available"
+  },
+  {
+    "id": "ready-or-not",
+    "name": "Ready or Not",
+    "description": "Ready or Not - Tactical FPS",
+    "downloadUrl": "https://flashbang.sh/dl/gmKiq_9p0bllyWMU0Fm_s0bMjmIZEOWCzaIxe90aU6vOQwCa1NA88tUMBM843uG5TO4GiuDekbCK0EvAdwVgg3KxaupYHj6r71TesJ2y3K6xjh1PgXAE0eyDQTo3FrA?v=1753540749-yMoJILGrdao3l8J8QZ9gYKKW0rlWvI0OGocpby2qamg%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/12/ready-or-not-preinstalled-steamrip.jpg",
+    "size": "25 GB",
+    "category": "FPS",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-undercover",
+    "name": "Need for Speed Undercover",
+    "description": "Need for Speed Undercover - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/-DsF5y6zT04XlxdRRBsNwztgVmixtFiMK26zOVoa-Kb9omqjryGp4n7Fhjd44nsvyV6AqmEy5ErXhnfaXuUOIcjz7yo_s-aQUzPxEy8Mbn22IWV1b6OEoIlEFWUEubjScLCX?v=1753540846-K8jtbJvLAoxeJjgnnqrb3jb7%2F9r9OljmmudcIXCCT5U%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/02/nfs-undercover-preinstalled-steamrip.jpg",
+    "size": "6 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-heat-deluxe",
+    "name": "Need for Speed Heat Deluxe Edition",
+    "description": "Need for Speed Heat Deluxe Edition - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/rvoMObAMb1gCcKPBnbLzG2qcNr5BzvZPFZQpHrueVoYBfdO_w_OzJNKJPlgw6F4_U3WI96sOOcVUC8iZ2d-ox5SWNoqWfL_jy3itxTCxw77nO_cr8IeG4bV9KsKPBgu3?v=1753540909-nCyBYyzgqIZ%2FV5nGIDb7nx8HKPRdCGceGuXWE1sqfpY%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/12/need-for-speed-heat-preinstalled-steamrip.jpg",
+    "size": "25 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "need-for-speed-the-run",
+    "name": "Need For Speed The Run",
+    "description": "Need For Speed The Run - Racing",
+    "downloadUrl": "https://flashbang.sh/dl/rdOcyi5Xh39bLMNVLl_bez3tBo2xcNfNd0R5J6KRhtT8CLetPiooi4LpXvBWbbgCHtRvxUT5TpbKkDmWrHvO7EPVxOBZB8b-lckjP57-_9eGc79eGC2bG084INK_AVG6-gQ93gGuui5F59w?v=1753540988-QEhNyTBALHjCWsZX1%2Fhb6v7lJZtkaBdbrrl%2FacTHFAA%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/09/need-for-speed-the-run-preinstalled-steamrip.jpg",
+    "size": "18 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "killing-floor-3",
+    "name": "Killing Floor 3",
+    "description": "Killing Floor 3 - Survival Horror FPS",
+    "downloadUrl": "https://flashbang.sh/dl/18U4xhHfeeOxCFExZHejhSshJGoN3nWU8uXiLfuS4BST0hd_ZiMqYCfeHGVTtozQQLhtr42RNZ7OkIqhKvLVw6QrRcdEr2B9g6whH5HAY0FMFXKr7cjf60H7G-nFumKxSyB8PQ?v=1753550231-ltBb54IEfwaTMYCK1R91TcXVQKYrx1lTHPHtqDLxT0Q%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/killing-floor-3-preinstalled-steamrip.jpg",
+    "size": "35 GB",
+    "category": "Horror",
+    "status": "available"
+  },
+  {
+    "id": "naruto-x-boruto-ultimate",
+    "name": "NARUTO X BORUTO Ultimate Ninja",
+    "description": "NARUTO X BORUTO Ultimate Ninja - Fighting Game",
+    "downloadUrl": "https://flashbang.sh/dl/v30stIsKv6En_iuf7xxj0H8wEwVFwMd3_WDHm76NBQWCz2JsNGmHKqd1s-hWdsbMl6_VIkGU-dwPeOIKtL5pSUPO3UW-0vXJ2ZELl0rVW2oe0iW-u8CUekpeLpU-M_CyU8uDjKOTgB_K?v=1753550357-6FajYNeOHuuacc%2FwwXakHCLdt81I0Tqo6Puvc1CPAfk%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/11/naruto-x-boruto-ultimate-ninja-storm-connections-preinstalled-steamrip.jpg",
+    "size": "30 GB",
+    "category": "Fighting",
+    "status": "available"
+  },
+  {
+    "id": "thehunter-call-of-the-wild",
+    "name": "theHunter Call of the Wild",
+    "description": "theHunter Call of the Wild - Hunting Simulation",
+    "downloadUrl": "https://flashbang.sh/dl/ZgqT26VuegTMOTxpDO-KWJRxLqM68840EVXMmicrUsUMSMzMI6RyQY3u2HgaNmzrFFTsgudKMHgTuwLpdYKVReWn8P0CKxo0QeORZrcp8WjzkHDjW2ILHjgRRtR1VlvSqQHg?v=1753550413-2NFHtRugN85T9dNLcOkUXOQDTh09xd5YYlP7J1ovqHQ%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/10/thehunter-call-of-the-wild-free-download-preinstalled-steamrip.jpg",
+    "size": "60 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "repo",
+    "name": "REPO",
+    "description": "REPO - Action Thriller",
+    "downloadUrl": "https://flashbang.sh/dl/MOaAWsJsNrzUKma8SVZgigm1uXI4EEWCFMc7Au6sgrhkUxJLNTOOrjLpNwtZZ_fu9okgmlsynCWHxs15Q__5rSbJL5pfwq7NZ2Yu8oaNu948Rfd9wnNhOGE?v=1753550479-%2FdvfpnXySvAwGZCI5GAzNhloSbrP2fDkqeu1Uhl9xhY%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/02/repo-preinstalled-steamrip.jpg",
+    "size": "12 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "planet-coaster",
+    "name": "Planet Coaster",
+    "description": "Planet Coaster - Theme Park Builder",
+    "downloadUrl": "https://flashbang.sh/dl/38sgcysdorQXIVCJVKWiF5GAPkJTqXClGJ6defjmkR-aqYfnbtBVvo9GCVDxal-HGzf7qrdDVrhE_jhLQmB--E8k50HpwxVGAIBSIIJ1v8ASUW5Vl70Qo3l68BfDVZSAXtU8?v=1753550524-z9pfw4UjeV9XRyZ6KESO3IYz7Uehmc8FvmTWUoz0YLw%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/09/planet-coaster-free-download-preinstalled-steamrip.jpg",
+    "size": "8 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "planet-zoo",
+    "name": "Planet Zoo",
+    "description": "Planet Zoo - Animal Park Management",
+    "downloadUrl": "https://flashbang.sh/dl/9r-7dj6-PHWHX8ZWRrmJa57RxF0Ln0YDTjcIpe1fK1ZdxYwYpDDhtJwRM1J5ntVhbNe5CPCMK7e5MdbeZeKTAn85omlkeDsvuoHIVR2GBYx-lbaYbiRrmwFOUWEQPEQ?v=1753550604-ZeQ8oeoWah%2FIQI4cz%2F64G71k9N43eaXlPVVeiOhYKBE%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/09/planet-zoo-free-download-preinstalled-steamrip.jpg",
+    "size": "16 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "carx-street",
+    "name": "CarX Street",
+    "description": "CarX Street - Street Racing",
+    "downloadUrl": "",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/08/carx-street-preinstalled-steamrip.jpg",
+    "size": "12 GB",
+    "category": "Racing",
+    "status": "not-available"
+  },
+  {
+    "id": "police-simulator-patrol-officers",
+    "name": "Police Simulator Patrol Officers",
+    "description": "Police Simulator Patrol Officers - Law Enforcement",
+    "downloadUrl": "https://flashbang.sh/dl/EcgPrW9okmzRaElrPiEw3TGf4f-4ebHGG7iEhvmaY9UJq1d6rd9XjLG6lh-eQrWNBg8HIoY1-JNTls65VQqNU9Zwsj4fvT41MHTTYBgC8UW5g-VgVa1wrfxToCADoUElncxLR_dvmA8?v=1753550884-%2BAYHVbm3pDptUSe92udFokOY6G9KwmrchK%2FFhXIitVc%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/06/police-simulator-patrol-officers-free-download-torrent-steamrip-2048x1152.jpg",
+    "size": "15 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "atomic-heart",
+    "name": "Atomic Heart",
+    "description": "Atomic Heart - Action Adventure",
+    "downloadUrl": "https://flashbang.sh/dl/MScUXagCG3LIf9njYEGNecKBNlOEEK8ddsmimapi5wPVUWozKD4gu2B-3my17qhiN0RygjT30XXrUDcqZ616RaArkAsTEk3OWit9zRNOcEdIV0M7s-PDw1mUnxJoKOXGzW20yEY?v=1753550966-id%2F0fHhCChkS%2FR4sgQoUazRtFWm0ks%2BffJgYw5RPjhM%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/02/atomic-heart-preinstalled-steamrip.jpg",
+    "size": "60 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "hitman-3",
+    "name": "HITMAN 3",
+    "description": "HITMAN 3 - Stealth Action",
+    "downloadUrl": "https://flashbang.sh/dl/V4BaZf6yIy_vArIZFHephV9L77eIEkN-O6TllxM42H5aiCq32PsUWdkLTGQK5vsjnlPDg87-dNv5BfeIb2Zxl90yyUmR0CeutlArwJ3qg5jVtmfPBY5j0vwt8zaT?v=1753551035-QV2B4V7N27tzph8YAdF38H%2Bg2lNrfk26gGfZHDqnbQ8%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/09/hitman-3-free-download-preinstalled-steamrip.jpg",
+    "size": "65 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "kingdom-come-deliverance-2",
+    "name": "Kingdom Come Deliverance II",
+    "description": "Kingdom Come Deliverance II - Medieval RPG",
+    "downloadUrl": "https://flashbang.sh/dl/OlF5PW4WLJVZXqvwMYcjgXNA6aeLHp6_yRDE17K3_A3PXkcviW5790Ys_-jPmkPGPe_SI7SbIN3bcCUmWHgC_28E98PUslO0CS3lfV4X6lvCQhMOceovbgGkbf9Wud7OZvRzd10zG-A2uQKFKgED?v=1753551094-2olBoEFEiUFYUTpWb7qOgXfn449hpUhvZq8Y5AL8UH0%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/02/kingdom-come-deliverance-2-preinstalled-steamrip.jpg",
+    "size": "50 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "jurassic-world-evolution-2",
+    "name": "Jurassic World Evolution 2",
+    "description": "Jurassic World Evolution 2 - Dinosaur Park Management",
+    "downloadUrl": "https://flashbang.sh/dl/7SIdkpKmI7X0l7-2bYZkevAYrhMO0K4-kvCXr_sAe3XPShFbz-2Jlok0lQqac14brefti5FIU367Wh_jYZPTAzyEsUJzwI5StF1QS6Y5PmjPNFEUSvDrhYLIgnKwEWXDDsF3ikZSnEFECpZ4jvsZ?v=1753551164-HgiVw7z%2FuFAqK6NHFCSUZURLXXxVnnEBAQiIWF7URDk%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/03/jurassic-world-evolution-2-preinstalled-steamrip.jpg",
+    "size": "14 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "battlefield-5",
+    "name": "Battlefield 5",
+    "description": "Battlefield 5 - World War 2 FPS",
+    "downloadUrl": "https://flashbang.sh/dl/74TJoMaJmgcqnVmtQu0vqO9kXeExNNAW2YQh7DLVvgGXuvljNf42tru5cxp0iIJ9TX3MMRtMhtJiY10eibVFqZdTHfxmnYZM5Ed5oPkZofb1iYr3ZG-sGAfiTeZcEfHbOrM?v=1753551275-XRcR5%2BF6B%2Bz7DD9eeqCGvUJ6B97EzfHXjqrgzBg4hSQ%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/07/battlefield-v-free-download-torrent-steamrip.jpg",
+    "size": "75 GB",
+    "category": "FPS",
+    "status": "available"
+  },
+  {
+    "id": "dying-light-2",
+    "name": "Dying Light 2 Stay Human",
+    "description": "Dying Light 2 Stay Human - Zombie Survival",
+    "downloadUrl": "https://flashbang.sh/dl/P2uYK_8z6k4t67zJW7TPuoh-8Y0vyfx_RFGftxdyG4vk1RC7I809Dcpts-14fo3DbCUXvwAvSBJaReZAPvhcBIYOlAuu2WPzKZMHG2ufzH7HilN7E_bH3jQvExjnUEvCxHI?v=1753551337-JbeLm%2BODsSgmawUrp42dewnvks3pYSbVmJQRlYIHv%2Fk%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/08/dying-light-2-stay-human-preinstalled-steamrip.jpg",
+    "size": "60 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "dragon-ball-xenoverse-2",
+    "name": "DRAGON BALL XENOVERSE 2",
+    "description": "DRAGON BALL XENOVERSE 2 - Fighting Game",
+    "downloadUrl": "https://flashbang.sh/dl/E0ZG_k0rme4yfKbHF0fX0NcJx_uFDB8BnclvCk5t8gEfEfZgmTGbdLUftE1a405Y_pApLu8uj6byh8q7NU6u2Xv_b19yrDJkMWnxZbJIFomQw_RVjoM29BNc1VtVkCL0EZiKvJttnpjzQzcE?v=1753554112-DQn2ahRbEuI2OVB7XUmTHeFboKdZwvHrHU%2FBoaoFUCA%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/06/dragon-ball-xenoverse-2-preinstalled-steamrip.jpg",
+    "size": "25 GB",
+    "category": "Fighting",
+    "status": "available"
+  },
+  {
+    "id": "elden-ring-nightreign",
+    "name": "ELDEN RING NIGHTREIGN",
+    "description": "ELDEN RING NIGHTREIGN - Action RPG",
+    "downloadUrl": "https://flashbang.sh/dl/9CjCuADiT-Njmx8Nax4JPsErhhwPf9iUOKC-0rFHc6CuMQysiiy9FE1XBGRdCCoW0gFBYrajNq5srbxKScsczEqdSoRHBJAYwK0m61loXHBPP1YOQDP5lHcUj1_cyyeAlPA-t_CKUEEtdQ?v=1753552448-uyjmIGe5ocS%2BJw1DeW7yDlFuMVfU6QcqQAsLgG2wxII%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/05/elden-ring-nightreign-preinstalled-steamrip.jpg",
+    "size": "50 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "the-last-of-us-part-1",
+    "name": "The Last of Us Part I",
+    "description": "The Last of Us Part I - Post-Apocalyptic Action",
+    "downloadUrl": "https://flashbang.sh/dl/h_QKrcPEmY67T55fMaVjy4MXcHrrIwbs5BlcSXMrP_2SOtriaysX-5Aglch3onux43VHhTTxidZ5nvmoDtiVBMx4LMtfPMCzUzwA2eH-71-43CZr06_NRObupW3yuYIC1pVa8o6T?v=1753552500-%2FhJgZeREnHsw6jfjBLEg45Co9v7Y5e06r8kWiCBfdc0%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/03/the-last-of-us-part-I-preinstalled-steamrip.jpg",
+    "size": "65 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "the-last-of-us-part-2",
+    "name": "The Last of Us Part II Remastered",
+    "description": "The Last of Us Part II Remastered - Post-Apocalyptic Action",
+    "downloadUrl": "https://flashbang.sh/dl/Mm6S32QKvAooQNoxoy26HN8qXtJdL2fd-BbUMKC4jtdl1puNFH_uX2L-3ux3DQiqLiQQ_eSNgTktmSylqWMxKMltbedfppZDVLiP-2IabBd8nnNgS9pEBFrJLWd75-9RX_hO53yjsQ?v=1753552539-ekaJaukclMp3dQFWEYlINtvES1jyG6gx5OU2%2FSLg94Q%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/04/the-last-of-us-part-ii-remasted-preinstalled-steamrip.jpg",
+    "size": "75 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "bodycam",
+    "name": "Bodycam",
+    "description": "Bodycam - Tactical FPS",
+    "downloadUrl": "https://flashbang.sh/dl/2qf76R3TG2kXDLQR3nFWWbcPYlz_DPcuAl8365eZ2-wFTTqfa91vHgNrG4dWyuDoo47G24AX4QSECB7cd-F-cZg47-oGl0twKYaNjQh4IZuVSPaElqVJRgZcb0g?v=1753552743-71q7CPEtrrVtofTuN3ynGRHGTA4CibDqwX6EpmTjhVw%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/06/body-cam-preinstalled-steamrip.jpg",
+    "size": "20 GB",
+    "category": "FPS",
+    "status": "available"
+  },
+  {
+    "id": "liars-bar",
+    "name": "Liar's Bar",
+    "description": "Liar's Bar - Social Deduction Game",
+    "downloadUrl": "https://flashbang.sh/dl/6s8Z6ERjBnivev0yH1QmiFTMl4fn-1-llcUwqbjv8Dy9jo9MRkfvoPKs-HNSYHhS1o_6hMDKrmXweblU6mhUcPgtO25_R3rXt_CYnv_mOLD7Y1ZSr7zrSGeV0c4qIA?v=1753552784-085zIMgi47gSK13RR%2BzA2Baof8mYE%2FmjOV%2F5V9p9L6w%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/10/liars-bar-preinstalled-steamrip.jpg",
+    "size": "3 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "lethal-company",
+    "name": "Lethal Company",
+    "description": "Lethal Company - Co-op Horror",
+    "downloadUrl": "https://flashbang.sh/dl/u0fLkspBRQ_cnODW05WOpJO-rDJNJoowJAIqqKhSQWiPW-wLpnZiGxzGjJFJw1OfbKe98dWvKzW2dSUR2llW4takQuUxekjXBvTFUgOfx86Y62nrUBdpqxnLLN93XbDmGPHS?v=1753552833-DZKIK0aML9G7JPgJslbzpS6bQlLsJkTn0gWJ5a5U6kk%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/11/lethal-company-preinstalled-steamrip.jpg",
+    "size": "5 GB",
+    "category": "Horror",
+    "status": "available"
+  },
+  {
+    "id": "teardown",
+    "name": "Teardown",
+    "description": "Teardown - Destruction Sandbox",
+    "downloadUrl": "https://flashbang.sh/dl/GdHdtDFuf2rlbPO1kUkJ2bntVGMMY-zEfLYPiiOJb72SenMR2spaMBfkJU3HBMP_HXptTB1wj33KgJPHu_6e4C6zMFOyL_3Y2yTnZPQAtY1JhR5J0-Ffz2cXslvC?v=1753553010-waDPrEmqmkccYBzl%2F%2Boxd2PsTBJ180940oUmiazmEwc%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/08/teardown-free-download-preinstalled-steamrip.jpg",
+    "size": "5 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "totally-accurate-battle-simulator",
+    "name": "Totally Accurate Battle Simulator",
+    "description": "Totally Accurate Battle Simulator - Physics-based Combat",
+    "downloadUrl": "https://flashbang.sh/dl/ArgeYyA_qQvU2yo394lBN696voBsD2fMztRl_emQFCa0xBg6ZWA3WOtOYy6tJKFDFPbRjhroryVS82dzKqKHG8KeHruoiKLnbR3sLIzUiEmwqd-hAeeQ8m8?v=1753553128-Yqa52%2BYhWFIRiNVUyPzkem7XLnyCIPkMfmE6xJJzZ8U%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/06/totally-accurate-battle-simulator-free-download-preinstalled-steamrip.jpg",
+    "size": "10 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "dead-island-2-gold",
+    "name": "Dead Island 2 Gold Edition",
+    "description": "Dead Island 2 Gold Edition - Zombie Action",
+    "downloadUrl": "https://flashbang.sh/dl/uix4xAuEdUiZewaVWg19sTCz3pvDNc2W7easr-yR_6Ow_6gp1heL8plwxeAa-c8ZCYVbituB7Qw8NJwFIQp9NUEpHYQABDZCtcWG6ASXXGZREXzQGdUAqdWTQgZ2xZ5VHY9roUs?v=1753553260-64WWx3PuLv%2Fin0yhff8n%2BSqkDfmNGmttbmc1OdXtVvM%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/07/dead-island-2-gold-edition-preinstalled-steamrip.jpg",
+    "size": "50 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "pacify",
+    "name": "Pacify",
+    "description": "Pacify - Co-op Horror",
+    "downloadUrl": "http://fs17.megadb.xyz:8080/d/5lnfxvqoy5vxygoid7w7dwcbewld7buyqrfc4qgpjgef5cibun3mje3wsmxblzcatvl7n3hp/Pacify-SteamRIP.com.rar",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/07/pacify-free-download-torrent-steamrip.jpg",
+    "size": "5 GB",
+    "category": "Horror",
+    "status": "available"
+  },
+  {
+    "id": "texas-chain-saw-massacre",
+    "name": "The Texas Chain Saw Massacre",
+    "description": "The Texas Chain Saw Massacre - Asymmetric Horror",
+    "downloadUrl": "https://flashbang.sh/dl/HOZ3WnE6fkndkjWQx22dkuAPGnbJ1ur-MkN31FUt0ShUNJm_hKMrLA-Mf9iB_VFx3Voh-rVWcplh6MeEwdo9-wAPGiRnbfZbars39yOgPhVbBGdmpBxhx14Wdnuo6HRki9Y?v=1753553544-1bPNorgbnqr%2Fn3VRCUPnHnQf7%2F%2BpkqlXnwRddFCB2dY%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/08/the-texas-chain-saw-massacre-preinstalled-steamrip.jpg",
+    "size": "30 GB",
+    "category": "Horror",
+    "status": "available"
+  },
+  {
+    "id": "ark-survival-ascended",
+    "name": "ARK: Survival Ascended",
+    "description": "ARK: Survival Ascended - Survival Game",
+    "downloadUrl": "https://flashbang.sh/dl/blzMgYFWengWuu-ifAhlcKINDWGKsk8VCdQZGgKgWBYc-k6zwWMU_rf152rmCBSgx_VGf9MJ3bfR0XiECYh9zNVaC7zyEHlsnBDlwe3w3SIXG943Z9Uc3rD7Ab-jm2nKYDF9UuvvLiR1bi8?v=1753556668-4lJThrcsYCkLJ4Yff1EQapTBLR%2Br3MTxlT7RvBmgEgQ%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/10/ark-survival-ascended-preinstalled-steamrip.jpg",
+    "size": "70 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "people-playground",
+    "name": "People Playground",
+    "description": "People Playground - Physics Sandbox",
+    "downloadUrl": "http://fs20.megadb.xyz:8080/d/47nlz5qoy5vxygoid3w3nc2ge5pl5kps4kinrtzhcih2d7tpxkwpxi2pzogrbqfq2gpweggo/People-Playground-SteamRIP.com.rar",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/06/people-playground-free-download-preinstalled-steamrip.jpg",
+    "size": "3 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "7-days-to-die",
+    "name": "7 Days to Die",
+    "description": "7 Days to Die - Zombie Survival",
+    "downloadUrl": "https://flashbang.sh/dl/hRt5XA-jJhSFOvut6ZKqci4VuzzYyf8J-qEHu-TT1yupwmVyVlZo4GdlbaztZHaDrMhgBwvoKwdgOyHMEA2balVZkdXbE5HR7tWOhaif_j2o1BZJrDn3r6HBU8TSBdjhKNs?v=1753556951-3te8hiDse42VCXdibs2jA2prJRWF4xTmWO6JVyuEX5M%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/02/7-days-to-die-preinstalled-steamrip.jpg",
+    "size": "15 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "sons-of-the-forest",
+    "name": "Sons Of The Forest",
+    "description": "Sons Of The Forest - Survival Horror",
+    "downloadUrl": "https://flashbang.sh/dl/GQ1FhSdSWKidvOYa05iAT8012emepf2dOICqTbeivIGIE1GxaHct1UKcmIyc2_74hstAMp2oB3ne0TVUccznWjHAukgLDB_zLYif4FA9fLQG8ksv9KmH2cR6QQHrAKORWYxgKwCCJg?v=1753557002-ISAA5MwLtSLr7yAXKDHSztJrNJXMMb1YxSJVqgXY%2BRg%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2023/02/sons-of-the-forest-preinstalled-steamrip.jpg",
+    "size": "20 GB",
+    "category": "Horror",
+    "status": "available"
+  },
+  {
+    "id": "the-forest",
+    "name": "The Forest",
+    "description": "The Forest - Survival Horror",
+    "downloadUrl": "http://fs22.megadb.xyz:8080/d/4xnejqioy5vxygoid3w3pdyghelqitrrj36zzht4uznee6ehtlybopy44abvdh5roaquio5n/The-Forest-SteamRIP.com.rar",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/05/The-Forest-Free-Download-Pre-Installed-Steamrip.jpg",
+    "size": "18 GB",
+    "category": "Horror",
+    "status": "available"
+  }
+]
