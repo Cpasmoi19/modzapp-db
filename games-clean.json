@@ -1,5 +1,15 @@
 [
   {
+    "id": "aliens-vs-predator",
+    "name": "Aliens vs Predator",
+    "description": "Combat épique entre trois espèces légendaires",
+    "downloadUrl": "https://flashbang.sh/dl/-Bjs9Y1V9b01FAVju2_zdJPMvRuVbhrScpFZWhTH1DxiNZMhmPRJP_0Lj0wMB6Kb4N6s6RFC_Hm6O42Scx_Bj0psVVQsXiH1k8PwW8K2xbTg2zC5G4EyVS2oTTR4Sw8QoRLlWtqPCw?v=1753572019-k3C23Gt%2FgTcEVDu7ws4N%2BqF1jVbLSXgMYBxp8%2Fh71l0%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/aliens_vs_predators_featured_final.jpg",
+    "size": "Unknown",
+    "category": "Action",
+    "status": "available"
+  },
+  {
     "id": "metro-last-light-redux",
     "name": "Metro Last Light Redux",
     "description": "Survie post-apocalyptique dans les tunnels de Moscou",

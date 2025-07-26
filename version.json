@@ -1,10 +1,11 @@
 {
-  "version": "1.0.1",
-  "lastUpdate": "2025-01-27T15:30:00Z",
-  "totalGames": 88,
+  "version": "1.0.2",
+  "lastUpdate": "2025-01-27T16:00:00Z",
+  "totalGames": 89,
   "changelog": [
-    "🚀 NOUVEAU: Metro Last Light Redux ajouté!",
-    "✨ 88 jeux disponibles maintenant",
+    "� NOUVEAU: Aliens vs Predator ajouté!",
+    "�🚀 NOUVEAU: Metro Last Light Redux ajouté!",
+    "✨ 89 jeux disponibles maintenant",
     "🎮 Collection Need for Speed complète",
     "🔥 Cyberpunk 2077, The Last of Us, God of War",
     "🏎️ Forza Horizon 4 & 5",
@@ -13,7 +14,7 @@
     "🔍 Système de filtres par catégorie"
   ],
   "categories": {
-    "Action": 26,
+    "Action": 27,
     "Racing": 20,
     "Simulation": 15,
     "FPS": 8,
