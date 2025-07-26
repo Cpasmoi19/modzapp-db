@@ -1,9 +1,10 @@
 {
-  "version": "1.0.0",
-  "lastUpdate": "2025-01-27T10:00:00Z",
-  "totalGames": 87,
+  "version": "1.0.1",
+  "lastUpdate": "2025-01-27T15:30:00Z",
+  "totalGames": 88,
   "changelog": [
-    "✨ 87 jeux disponibles au lancement",
+    "🚀 NOUVEAU: Metro Last Light Redux ajouté!",
+    "✨ 88 jeux disponibles maintenant",
     "🎮 Collection Need for Speed complète",
     "🔥 Cyberpunk 2077, The Last of Us, God of War",
     "🏎️ Forza Horizon 4 & 5",
@@ -12,7 +13,7 @@
     "🔍 Système de filtres par catégorie"
   ],
   "categories": {
-    "Action": 25,
+    "Action": 26,
     "Racing": 20,
     "Simulation": 15,
     "FPS": 8,
