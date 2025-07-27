@@ -1,13 +1,15 @@
 {
-  "version": "1.0.7",
-  "lastUpdate": "2025-01-27T18:30:00Z",
-  "totalGames": 89,
+  "version": "1.0.9",
+  "lastUpdate": "2025-07-27T19:10:00Z",
+  "totalGames": 91,
   "changelog": [
     "🔗 Mise à jour de tous les liens de téléchargement",
     "🧹 Correction noms de jeux avec caractères spéciaux",
     "⚡ Nouveaux serveurs flashbang.sh/tunnel1.dlproxy.uk",
     "✅ DRAGON BALL XENOVERSE 2 réparé et disponible",
-    "🎉 88/89 jeux avec liens fonctionnels (98.9%)",
+    "🎮 Nouveau jeu ajouté: Luto (Psychological Horror)",
+    "🆕 Nouveau jeu ajouté: Internet Cafe Simulator 2025 (Business Simulation)",
+    "🎉 90/91 jeux avec liens fonctionnels (98.9%)",
     "🛠️ Amélioration détection des jeux installés",
     "🎨 Boutons interface en texte seulement",
     "🗂️ Nettoyage et optimisation du code"
@@ -15,10 +17,10 @@
   "categories": {
     "Action": 26,
     "Racing": 20,
-    "Simulation": 15,
+    "Simulation": 16,
+    "Horror": 9,
     "FPS": 8,
     "Fighting": 5,
-    "Horror": 8,
     "Sports": 3,
     "Western": 2,
     "Adventure": 2
