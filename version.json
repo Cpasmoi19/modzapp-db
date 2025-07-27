@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "lastUpdate": "2025-07-27T19:10:00Z",
-  "totalGames": 91,
+  "version": "1.0.10",
+  "lastUpdate": "2025-07-27T20:00:00Z",
+  "totalGames": 92,
   "changelog": [
     "🔗 Mise à jour de tous les liens de téléchargement",
     "🧹 Correction noms de jeux avec caractères spéciaux",
@@ -9,7 +9,8 @@
     "✅ DRAGON BALL XENOVERSE 2 réparé et disponible",
     "🎮 Nouveau jeu ajouté: Luto (Psychological Horror)",
     "🆕 Nouveau jeu ajouté: Internet Cafe Simulator 2025 (Business Simulation)",
-    "🎉 90/91 jeux avec liens fonctionnels (98.9%)",
+    "🐾 Nouveau jeu ajouté: Animal Shelter 2 (Simulation)",
+    "🎉 91/92 jeux avec liens fonctionnels (98.9%)",
     "🛠️ Amélioration détection des jeux installés",
     "🎨 Boutons interface en texte seulement",
     "🗂️ Nettoyage et optimisation du code"
@@ -17,7 +18,7 @@
   "categories": {
     "Action": 26,
     "Racing": 20,
-    "Simulation": 16,
+    "Simulation": 17,
     "Horror": 9,
     "FPS": 8,
     "Fighting": 5,
