@@ -1,13 +1,16 @@
 {
-  "version": "1.0.4",
-  "lastUpdate": "2025-01-27T16:45:00Z",
+  "version": "1.0.6",
+  "lastUpdate": "2025-01-27T18:00:00Z",
   "totalGames": 89,
   "changelog": [
     "🔗 Mise à jour de tous les liens de téléchargement",
+    "🧹 Correction noms de jeux avec caractères spéciaux",
     "⚡ Nouveaux serveurs flashbang.sh/tunnel1.dlproxy.uk",
-    "🎮 89 jeux avec liens fonctionnels",
-    "🔥 Collection complète optimisée",
-    "✅ Tous les téléchargements opérationnels"
+    "🔧 DRAGON BALL XENOVERSE 2 en maintenance (HTTP 503)",
+    "✅ 87/89 jeux avec liens fonctionnels (97.7%)",
+    "🛠️ Amélioration détection des jeux installés",
+    "🎨 Boutons interface en texte seulement",
+    "🗂️ Nettoyage et optimisation du code"
   ],
   "categories": {
     "Action": 26,
