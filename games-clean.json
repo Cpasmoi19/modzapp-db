@@ -940,5 +940,15 @@
     "size": "20 GB",
     "category": "Action",
     "status": "available"
+  },
+  {
+    "id": "halo-2",
+    "name": "Halo 2",
+    "description": "Halo 2 - FPS légendaire dans l'univers Halo.",
+    "downloadUrl": "https://flashbang.sh/dl/ajuCbv63FwaFm5wPBGs_TT8XI61J7FEmnpos0beCkEr1PeRaHyhWGOly0c7aebQBh-XeUH6R7OWn92GoOPmgKjIEfGyTc3_lCj_cxOdS3tXxf1GlTAAj6eAqKw?v=1753644338-Tm8D2V8%2F1%2FPHRUewoEvrpSoBbMh7owpoFZSRmao10ws%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/halo2_fatured_final.jpg",
+    "size": "20 GB",
+    "category": "FPS",
+    "status": "available"
   }
 ]
