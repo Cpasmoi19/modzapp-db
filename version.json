@@ -1,13 +1,13 @@
 {
-  "version": "1.0.2",
-  "lastUpdate": "2025-01-27T13:00:00Z",
+  "version": "1.0.3",
+  "lastUpdate": "2025-01-27T15:30:00Z",
   "totalGames": 89,
   "changelog": [
-    "✨ Nouveau jeu ajouté: Elden Ring Deluxe Edition",
-    "🎮 Abiotic Factor également disponible",
-    "� 89 jeux disponibles au total",
-    "🔥 Collection complète mise à jour",
-    "⚡ Interface gaming rouge/noir optimisée"
+    "🔗 Mise à jour de tous les liens de téléchargement",
+    "⚡ Nouveaux serveurs flashbang.sh/tunnel1.dlproxy.uk",
+    "🎮 89 jeux avec liens fonctionnels",
+    "🔥 Collection complète optimisée",
+    "✅ Tous les téléchargements opérationnels"
   ],
   "categories": {
     "Action": 26,
