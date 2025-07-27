@@ -1,7 +1,7 @@
 {
   "version": "1.0.17",
   "lastUpdate": "2025-07-27T22:30:00Z",
-  "totalGames": 100,
+  "totalGames": 101,
   "changelog": [
     "🔗 Mise à jour de tous les liens de téléchargement",
     "🧹 Correction noms de jeux avec caractères spéciaux",
@@ -20,7 +20,7 @@
     "🐀 Jeu remis: Ratten Reich (Strategy)",
     "🆕 Nouveau jeu ajouté: Halo 2 (FPS)",
     "🆕 Lien mis à jour: Supermarket Simulator",
-    "🎉 100 jeux avec liens fonctionnels (100%)",
+    "🎉 101 jeux avec liens fonctionnels (100%)",
     "🛠️ Amélioration détection des jeux installés",
     "🎨 Boutons interface en texte seulement",
     "🗂️ Nettoyage et optimisation du code"
@@ -28,7 +28,7 @@
   "categories": {
     "Action": 27,
     "Racing": 21,
-    "Simulation": 18,
+    "Simulation": 19,
     "Horror": 10,
     "FPS": 11,
     "Fighting": 5,
