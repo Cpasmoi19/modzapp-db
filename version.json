@@ -1,16 +1,16 @@
 {
-  "version": "1.0.1",
-  "lastUpdate": "2025-01-27T12:00:00Z",
-  "totalGames": 88,
+  "version": "1.0.2",
+  "lastUpdate": "2025-01-27T13:00:00Z",
+  "totalGames": 89,
   "changelog": [
-    "✨ Nouveau jeu ajouté: Abiotic Factor",
-    "🎮 88 jeux disponibles au total",
-    "� Collection complète mise à jour",
-    "⚡ Interface gaming rouge/noir",
-    "🔍 Système de filtres par catégorie"
+    "✨ Nouveau jeu ajouté: Elden Ring Deluxe Edition",
+    "🎮 Abiotic Factor également disponible",
+    "� 89 jeux disponibles au total",
+    "🔥 Collection complète mise à jour",
+    "⚡ Interface gaming rouge/noir optimisée"
   ],
   "categories": {
-    "Action": 25,
+    "Action": 26,
     "Racing": 20,
     "Simulation": 15,
     "FPS": 8,

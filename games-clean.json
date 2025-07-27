@@ -880,5 +880,15 @@
     "size": "25 GB",
     "category": "Adventure",
     "status": "available"
+  },
+  {
+    "id": "elden-ring-deluxe",
+    "name": "Elden Ring Deluxe Edition",
+    "description": "Elden Ring Deluxe Edition - Epic Fantasy Action RPG",
+    "downloadUrl": "https://flashbang.sh/dl/zFXUjQwfbtHyDN96FYmyTiEPZFKNxo6-VQIs_FKjJ7n7WVoO0imv5m8LJDtERRAAfDPLYnhTO8ZKEtUTNXcPJAjVUNHp9yWBw5VjH4-LkaW4cUH0gfrUIW5SBowWkGN6FAc?v=1753575489-iDIggmFARcz2CemeXoxSSvUce5TjebrJS%2BDVd40ZWBs%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/02/elden-ring-preinstalled-steamrip.jpg",
+    "size": "60 GB",
+    "category": "Action",
+    "status": "available"
   }
 ]
