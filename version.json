@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
-  "lastUpdate": "2025-07-27T20:00:00Z",
-  "totalGames": 92,
+  "version": "1.0.11",
+  "lastUpdate": "2025-07-27T20:30:00Z",
+  "totalGames": 93,
   "changelog": [
     "🔗 Mise à jour de tous les liens de téléchargement",
     "🧹 Correction noms de jeux avec caractères spéciaux",
@@ -10,6 +10,7 @@
     "🎮 Nouveau jeu ajouté: Luto (Psychological Horror)",
     "🆕 Nouveau jeu ajouté: Internet Cafe Simulator 2025 (Business Simulation)",
     "🐾 Nouveau jeu ajouté: Animal Shelter 2 (Simulation)",
+    "🎰 Nouveau jeu ajouté: Slot Shots Pinball Ultimate Edition (Sports)",
     "🎉 91/92 jeux avec liens fonctionnels (98.9%)",
     "🛠️ Amélioration détection des jeux installés",
     "🎨 Boutons interface en texte seulement",
@@ -22,7 +23,7 @@
     "Horror": 9,
     "FPS": 8,
     "Fighting": 5,
-    "Sports": 3,
+    "Sports": 4,
     "Western": 2,
     "Adventure": 2
   }
