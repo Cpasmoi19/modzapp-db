@@ -933,4 +933,15 @@
     "category": "Racing",
     "status": "available"
   }
+  ,
+  {
+    "id": "palworld",
+    "name": "Palworld",
+    "description": "Palworld - Jeu d'aventure et de survie avec des créatures à capturer et à combattre.",
+    "downloadUrl": "https://flashbang.sh/dl/tPfkcnX6b-robEvKGCfnfumcH9PJLKplpnMV8At3iM2Pia5oZKr-y5oCu9XAwG1d9lKfHaWkiuuQ-x3sYUcNGVwHy8cGjA5G-lghW3uzO12jxlmlnQ615iKoV9rZ?v=1753641492-cxDaipetVE%2BN%2BrHpuvKJXH%2BBo%2FO8YvxbkTArPedaZP4%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/01/palworld-preinstalled-steamrip-1024x576.jpg",
+    "size": "25 GB",
+    "category": "Adventure",
+    "status": "available"
+  }
 ]

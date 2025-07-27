@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "lastUpdate": "2025-07-27T21:00:00Z",
-    "totalGames": 93,
+  "version": "1.0.13",
+  "lastUpdate": "2025-07-27T21:15:00Z",
+    "totalGames": 94,
   "changelog": [
     "🔗 Mise à jour de tous les liens de téléchargement",
     "🧹 Correction noms de jeux avec caractères spéciaux",
@@ -11,7 +11,8 @@
     "🆕 Nouveau jeu ajouté: Internet Cafe Simulator 2025 (Business Simulation)",
     "🐾 Nouveau jeu ajouté: Animal Shelter 2 (Simulation)",
     "🎰 Nouveau jeu ajouté: Slot Shots Pinball Ultimate Edition (Sports)",
-        "🆕 Jeu modifié: Le Mans Ultimate remplacé par un autre jeu",
+    "🆕 Jeu modifié: Le Mans Ultimate remplacé par un autre jeu",
+    "🌍 Nouveau jeu ajouté: Palworld (Adventure)",
     "�🎉 91/92 jeux avec liens fonctionnels (98.9%)",
     "🛠️ Amélioration détection des jeux installés",
     "🎨 Boutons interface en texte seulement",
@@ -26,6 +27,6 @@
     "Fighting": 5,
     "Sports": 4,
     "Western": 2,
-    "Adventure": 2
+    "Adventure": 3
   }
 }
