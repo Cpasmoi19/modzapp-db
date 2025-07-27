@@ -944,4 +944,15 @@
     "category": "Adventure",
     "status": "available"
   }
+  ,
+  {
+    "id": "crypto-mining-simulator",
+    "name": "Crypto Mining Simulator",
+    "description": "Crypto Mining Simulator - Simulez l'expérience du minage de cryptomonnaies avec gestion de matériel et optimisation.",
+    "downloadUrl": "https://flashbang.sh/dl/ACNXD9MhO8RrwlvY7W8XYDjQC9jL00Th7wItMUDZmv7r5HTNq2RIV_AO0Iz4xTF_RsI-BFF-B53RuMF2dp_AI4nTcyyADcpoz5hvNgTP9jTiLTPJvxL7o3rY0yFLe3JYDibSWS5DYj-NQAQ-?v=1753641877-vVExHpZeKQCtM0vJm7D1HOfCuLy8DxAo82VQJv5SsfU%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/Crypto-Mining-Simulator_featured_final.jpg",
+    "size": "5 GB",
+    "category": "Simulation",
+    "status": "available"
+  }
 ]

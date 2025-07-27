@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "lastUpdate": "2025-07-27T21:15:00Z",
-    "totalGames": 94,
+  "version": "1.0.14",
+  "lastUpdate": "2025-07-27T21:30:00Z",
+    "totalGames": 95,
   "changelog": [
     "🔗 Mise à jour de tous les liens de téléchargement",
     "🧹 Correction noms de jeux avec caractères spéciaux",
@@ -13,6 +13,7 @@
     "🎰 Nouveau jeu ajouté: Slot Shots Pinball Ultimate Edition (Sports)",
     "🆕 Jeu modifié: Le Mans Ultimate remplacé par un autre jeu",
     "🌍 Nouveau jeu ajouté: Palworld (Adventure)",
+    "💻 Nouveau jeu ajouté: Crypto Mining Simulator (Simulation)",
     "�🎉 91/92 jeux avec liens fonctionnels (98.9%)",
     "🛠️ Amélioration détection des jeux installés",
     "🎨 Boutons interface en texte seulement",
@@ -21,7 +22,7 @@
   "categories": {
     "Action": 26,
     "Racing": 21,
-    "Simulation": 17,
+    "Simulation": 18,
     "Horror": 9,
     "FPS": 8,
     "Fighting": 5,
