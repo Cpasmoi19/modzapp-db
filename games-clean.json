@@ -910,61 +910,6 @@
     "size": "12 GB",
     "category": "Simulation",
     "status": "available"
-  }
-  ,
-  {
-    "id": "animal-shelter-2",
-    "name": "Animal Shelter 2",
-    "description": "Gérez votre propre refuge pour animaux dans Animal Shelter 2. Prenez soin des animaux, améliorez votre refuge et trouvez-leur un nouveau foyer.",
-    "downloadUrl": "https://flashbang.sh/dl/ZpzpQp7K8aM_pDF9dk3vU-20JYR7x_LuAH19NTaJ_ILgkDDU8gV78SgMiiqcfV_r3DOPr70ciBCi1OO6Do0hqUdE2F2YlvMZ0ZhSEDXjwX8ARvld9PQf-Nf8xbJRi76Kq-EB3KQ?v=1753639041-yYEFc%2F31aoyza%2B7N689GRyr0KHyr7YQchs%2BgBuAHjM4%3D",
-    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/animal-shelter-2-preinstalled-steamrip-1024x576.jpg",
-    "size": "10 GB",
-    "category": "Simulation",
-    "status": "available"
-  }
-  ,
-  {
-    "id": "Le-Mans-Ultimate",
-    "name": "Le Mans Ultimate",
-    "description": "Le Mans Ultimate - Simulation de course automobile sur le circuit mythique du Mans.",
-    "downloadUrl": "https://flashbang.sh/dl/6rpcP5zKNyB3AtcwJrYbgn9nQI3KUrrhadg-CC5EmB6sP5xeo8gJsGyxOT_kKSHGTx-P5BcU-ujUuoPeFWSR9wr0sI1uRuL3sCDqUG6BXig8aKOL-RaVJkfqXUESwKdhLW2CiW0?v=1753640459-Y0LY6xSjv3za9lCU5WO2tsvK1BL3RihfJhL18A89KTA%3D",
-    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/02/le-mans-ultimate-preinstalled-steamrip-1024x576.jpg",
-    "size": "2 GB",
-    "category": "Racing",
-    "status": "available"
-  }
-  ,
-  {
-    "id": "palworld",
-    "name": "Palworld",
-    "description": "Palworld - Jeu d'aventure et de survie avec des créatures à capturer et à combattre.",
-    "downloadUrl": "https://flashbang.sh/dl/tPfkcnX6b-robEvKGCfnfumcH9PJLKplpnMV8At3iM2Pia5oZKr-y5oCu9XAwG1d9lKfHaWkiuuQ-x3sYUcNGVwHy8cGjA5G-lghW3uzO12jxlmlnQ615iKoV9rZ?v=1753641492-cxDaipetVE%2BN%2BrHpuvKJXH%2BBo%2FO8YvxbkTArPedaZP4%3D",
-    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/01/palworld-preinstalled-steamrip-1024x576.jpg",
-    "size": "25 GB",
-    "category": "Adventure",
-    "status": "available"
-  }
-  ,
-  {
-    "id": "crypto-mining-simulator",
-    "name": "Crypto Mining Simulator",
-    "description": "Crypto Mining Simulator - Simulez l'expérience du minage de cryptomonnaies avec gestion de matériel et optimisation.",
-    "downloadUrl": "https://flashbang.sh/dl/ACNXD9MhO8RrwlvY7W8XYDjQC9jL00Th7wItMUDZmv7r5HTNq2RIV_AO0Iz4xTF_RsI-BFF-B53RuMF2dp_AI4nTcyyADcpoz5hvNgTP9jTiLTPJvxL7o3rY0yFLe3JYDibSWS5DYj-NQAQ-?v=1753641877-vVExHpZeKQCtM0vJm7D1HOfCuLy8DxAo82VQJv5SsfU%3D",
-    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/Crypto-Mining-Simulator_featured_final.jpg",
-    "size": "5 GB",
-    "category": "Simulation",
-    "status": "available"
-  }
-  ,
-  {
-    "id": "the-classrooms",
-    "name": "The Classrooms",
-    "description": "The Classrooms - Jeu d'horreur et d'exploration dans des environnements scolaires mystérieux.",
-    "downloadUrl": "https://flashbang.sh/dl/QMzaerRYSYTOhG5whoRpjjhL4CAX1iLlKA27vJsyA0VGZzNUoVjnnr7osozXZUgOH7nC59_W2r5e4zX-FcN_Q10LLkLx_TEmbnEsMNt96XJGc9ShJRqEwN06mH6-Cjoh9VVa?v=1753642221-wSZsRdS8zp5NwtB4hi4ikC28qMtqTq7%2BA9BiiK7QxaE%3D",
-    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/The-Classrooms_featured_final.jpg",
-    "size": "8 GB",
-    "category": "Horror",
-    "status": "available"
   },
   {
     "id": "rainbow-six-siege-complete",
@@ -984,6 +929,16 @@
     "imageUrl": "https://steamrip.com/wp-content/uploads/2025/01/ratten-reich-preinstalled-steamrip.jpg",
     "size": "30 GB",
     "category": "Strategy",
+    "status": "available"
+  },
+  {
+    "id": "hunter-hunter-nen-impact",
+    "name": "HUNTER HUNTER NEN IMPACT",
+    "description": "HUNTER HUNTER NEN IMPACT - Jeu d'action et d'aventure inspiré de l'univers Hunter x Hunter.",
+    "downloadUrl": "https://flashbang.sh/dl/ckjFlLi8CHSFcNZem83TJA3mWnZl_Eq2-XiABqhN4FHZ0jr-yELu0VFoYqkrZ2uhNSMP4Zs-zrb3Ac5i0VO2_c2mTheHa2a7_jfOzv6kMEjG7TStwpIHeSBmVsB1BildrrpKkCvh7jQGuI9Krg?v=1753643304-P2j9B3NCI88i7iZzaDW%2B1UJ%2BWJ2eMP22ku5wahqcUdk%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/hunter-hunter-nen-impact-preinstalled-steamrip.jpg",
+    "size": "20 GB",
+    "category": "Action",
     "status": "available"
   }
 ]
