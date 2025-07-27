@@ -890,5 +890,25 @@
     "size": "60 GB",
     "category": "Action",
     "status": "available"
+  },
+  {
+    "id": "luto",
+    "name": "Luto",
+    "description": "Luto - Psychological Horror Adventure",
+    "downloadUrl": "https://flashbang.sh/dl/yb_BgWQ-XUbYeCpwfImqf9VZTiEbDpt1RZbqIKF7gg9KdVz8vXZWXbiy4Z6GpDpojZ9AMxYgKNRin57WqRRuKzBJMmFfElvCthIkNxKRA-orzBE1-jhtFXU?v=1753636250-TXI%2FXt%2BO%2Ff9cvKdktDVmq18z%2BAvPK2Ejcc7gZ3puoZE%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/Luto_featured_final.jpg",
+    "size": "25 GB",
+    "category": "Horror",
+    "status": "available"
+  },
+  {
+    "id": "internet-cafe-simulator-2025",
+    "name": "Internet Cafe Simulator 2025",
+    "description": "Internet Cafe Simulator 2025 - Business Simulation",
+    "downloadUrl": "https://flashbang.sh/dl/K6GApUo_4NK7x3L4qN5-9yG4D3-ftAejSklD2QECJ7w_w9FZ3DQmem7hcNFElxAnB4O9lLVSn2p4BGzqPzTz7lQrxEyHwNpA7TxSkPpXtf3bcgOuQ13VVsdkQbJjBwiMU1SvW41s0CZJIPWFYI4zALc?v=1753637028-0WZnlCLcmtLeD7b816qYGqKNLLZZDy7N7txmSKjeinI%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/01/internet-cafe-simulator-2025-preinstalled-steamrip-1024x576.jpg",
+    "size": "12 GB",
+    "category": "Simulation",
+    "status": "available"
   }
 ]
