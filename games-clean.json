@@ -955,4 +955,35 @@
     "category": "Simulation",
     "status": "available"
   }
+  ,
+  {
+    "id": "the-classrooms",
+    "name": "The Classrooms",
+    "description": "The Classrooms - Jeu d'horreur et d'exploration dans des environnements scolaires mystérieux.",
+    "downloadUrl": "https://flashbang.sh/dl/QMzaerRYSYTOhG5whoRpjjhL4CAX1iLlKA27vJsyA0VGZzNUoVjnnr7osozXZUgOH7nC59_W2r5e4zX-FcN_Q10LLkLx_TEmbnEsMNt96XJGc9ShJRqEwN06mH6-Cjoh9VVa?v=1753642221-wSZsRdS8zp5NwtB4hi4ikC28qMtqTq7%2BA9BiiK7QxaE%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/The-Classrooms_featured_final.jpg",
+    "size": "8 GB",
+    "category": "Horror",
+    "status": "available"
+  },
+  {
+    "id": "rainbow-six-siege-complete",
+    "name": "Tom Clancy’s Rainbow Six Siege Complete",
+    "description": "Tom Clancy’s Rainbow Six Siege Complete - Jeu de tir tactique multijoueur avec tous les DLC inclus.",
+    "downloadUrl": "https://flashbang.sh/dl/zcbvpCEZpVj2qGamhK3RYBJNMJNybRhMzp1kgFuJTJXcuDKybkyUcPM21ELejKSlWVOWhUxV-SL1pKa99nOzfxURwulYFTaNbRd-jiVE3N6ADptNaCcpM-_rkJyZKlX3Q8R5O2xezdYQ28Db?v=1753642244-Bv3%2BIZpPqbkitHlqfs93feYehSRfLpS4epW7ReFXJLw%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/09/tom-clancys-rainbow-six-siege-free-download-preinstalled-steamrip.jpg",
+    "size": "80 GB",
+    "category": "FPS",
+    "status": "available"
+  },
+  {
+    "id": "ratten-reich",
+    "name": "Ratten Reich",
+    "description": "Ratten Reich - Jeu de stratégie et d'action dans un univers alternatif avec des factions animales.",
+    "downloadUrl": "https://flashbang.sh/dl/aBGaFxxXZ_UA20LeX_twR3MSLddXlhE-fsCPu9vaO69oXCIUBNu9j4-euVv0oATcAok6bUuw39QeQXy6aEah3U_ZribioCCbwmJD3CbTS4ArbOylTLK7hoX4m0A5y1gDrg?v=1753642291-cBsmWlwTU46ItFTdDFjbXes%2BruuDZqwKGCPDRkQ5Y3g%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/01/ratten-reich-preinstalled-steamrip.jpg",
+    "size": "30 GB",
+    "category": "Strategy",
+    "status": "available"
+  }
 ]

@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "lastUpdate": "2025-07-27T21:30:00Z",
-    "totalGames": 95,
+  "version": "1.0.15",
+  "lastUpdate": "2025-07-27T21:45:00Z",
+    "totalGames": 98,
   "changelog": [
     "🔗 Mise à jour de tous les liens de téléchargement",
     "🧹 Correction noms de jeux avec caractères spéciaux",
@@ -14,6 +14,9 @@
     "🆕 Jeu modifié: Le Mans Ultimate remplacé par un autre jeu",
     "🌍 Nouveau jeu ajouté: Palworld (Adventure)",
     "💻 Nouveau jeu ajouté: Crypto Mining Simulator (Simulation)",
+    "🏫 Nouveau jeu ajouté: The Classrooms (Horror)",
+    "🛡️ Nouveau jeu ajouté: Tom Clancy’s Rainbow Six Siege Complete (FPS)",
+    "🐀 Nouveau jeu ajouté: Ratten Reich (Strategy)",
     "�🎉 91/92 jeux avec liens fonctionnels (98.9%)",
     "🛠️ Amélioration détection des jeux installés",
     "🎨 Boutons interface en texte seulement",
@@ -23,11 +26,12 @@
     "Action": 26,
     "Racing": 21,
     "Simulation": 18,
-    "Horror": 9,
-    "FPS": 8,
+    "Horror": 10,
+    "FPS": 9,
     "Fighting": 5,
     "Sports": 4,
     "Western": 2,
-    "Adventure": 3
+    "Adventure": 3,
+    "Strategy": 1
   }
 }
