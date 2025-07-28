@@ -985,9 +985,19 @@
     "id": "yakuza-4-remastered",
     "name": "Yakuza 4 Remastered",
     "description": "Yakuza 4 Remastered - Action Adventure",
-    "downloadUrl": "https://flashbang.sh/dl/PioS3-IEwflSQ_eNo2YU51a0Y0Fa2EYJQ0MUP4lA2TxAFqF9xN0__vUUQG679zMjYr4X90i3pgnkYW3V0W8UmO3Z4lZ_JsEtykZRAjohMyHSa9XZeE-uEwEjHzHzSM9jGauiKXKRuyw?v=1753665604-EDH7V5Zrl9AIMyLwPa%2BGt8TJ%2F7On1m%2ByxAcZDFeEpO8%3D",
+    "downloadUrl": "magnet:?xt=urn:btih:1AC8308D468E0A60F2A4BCC92D43011F6EEE64D9",
     "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/Yakuza-4-Remastered_featured_final.jpg",
     "size": "25 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "ghost-of-tsushima-directors-cut",
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "description": "Ghost of Tsushima DIRECTOR'S CUT - Open World Action Adventure",
+    "downloadUrl": "magnet:?xt=urn:btih:25E2F1AA84D8E4AFBA8105656BDB4DDF3DB95FA4&dn=Ghost+of+Tsushima+DIRECTOR%26%23039%3BS+CUT+%28v1053.0.0515.2048+%2B+DLC+%2B+Bonus+Content+%2B+Multiplayer%2C+MULTi26%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+31.2+GB%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+    "imageUrl": "http://s01.riotpixels.net/data/c6/4d/c64df783-58b0-4549-8ca2-4f2c1dc1ddc4.jpg/cover.ghost-of-tsushima-directors-cut.1080x1080.2021-07-01.15.jpg",
+    "size": "31 GB",
     "category": "Action",
     "status": "available"
   }
