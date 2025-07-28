@@ -1,9 +1,10 @@
 {
-  "version": "1.0.18",
-  "lastUpdate": "2025-07-28T12:00:00Z",
-  "totalGames": 97,
+  "version": "1.0.19",
+  "lastUpdate": "2025-07-28T13:00:00Z",
+  "totalGames": 98,
   "changelog": [
-    "🏭 Nouveau jeu ajouté: Factory Town (Simulation)",
+    "� Nouveau jeu ajouté: Le Mans Ultimate (Racing)",
+    "�🏭 Nouveau jeu ajouté: Factory Town (Simulation)",
     "🔗 Mise à jour de tous les liens de téléchargement",
     "🧹 Correction noms de jeux avec caractères spéciaux",
     "⚡ Nouveaux serveurs flashbang.sh/tunnel1.dlproxy.uk",
@@ -21,14 +22,14 @@
     "🐀 Jeu remis: Ratten Reich (Strategy)",
     "🆕 Nouveau jeu ajouté: Halo 2 (FPS)",
     "🆕 Lien mis à jour: Supermarket Simulator",
-    "🎉 97 jeux avec liens fonctionnels (100%)",
+    "🎉 98 jeux avec liens fonctionnels (100%)",
     "🛠️ Amélioration détection des jeux installés",
     "🎨 Boutons interface en texte seulement",
     "🗂️ Nettoyage et optimisation du code"
   ],
   "categories": {
     "Action": 29,
-    "Racing": 18,
+    "Racing": 19,
     "Simulation": 23,
     "Horror": 8,
     "FPS": 7,

@@ -965,10 +965,20 @@
     "id": "factory-town",
     "name": "Factory Town",
     "description": "Factory Town - Automation and city-building game",
-    "downloadUrl": "https://flashbang.sh/dl/factory-town-complete",
+    "downloadUrl": "https://flashbang.sh/dl/sO0fJdcHJMEG0lqBJAiefXQaiI4Ajxz-dlFm_LVQyREpiG8UAi0j4nuhRuxNMH5ZkbrYrX2qCcM2tmnniIJv4-akwL5oo3P5NjZ_xvpzgqS_6PM-RS5SF01vuasYzeKMDg?v=1753664431-9%2FbLz0hq63SrtiDwvAGvrvnvJj6Y6dFIRNcr0K%2Fome8%3D",
     "imageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/860890/header.jpg",
     "size": "1.2 GB",
     "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "le-mans-ultimate",
+    "name": "Le Mans Ultimate",
+    "description": "Le Mans Ultimate - Racing simulation",
+    "downloadUrl": "https://flashbang.sh/dl/KnKKeYtgT3C5qTsWqMWePyJb9u49Mi26G0elegUkk9TY6skyCE2DJIVynCwcypdWBTgYwgoXivIKq1VP-cTp8szujmCTiYZQh44PvXew_gK1_DU7hjOCB5kyrKGCnle3LFcS30o?v=1753664549-VDal6uf%2BH94r7WKI3BxoVsfBGjrSUGgT7%2FKgJUmCzMw%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2024/02/le-mans-ultimate-preinstalled-steamrip.jpg",
+    "size": "50 GB",
+    "category": "Racing",
     "status": "available"
   }
 ]
