@@ -715,7 +715,7 @@
     "id": "elden-ring-nightreign",
     "name": "ELDEN RING NIGHTREIGN",
     "description": "ELDEN RING NIGHTREIGN - Action RPG",
-    "downloadUrl": "https://flashbang.sh/dl/9CjCuADiT-Njmx8Nax4JPsErhhwPf9iUOKC-0rFHc6CuMQysiiy9FE1XBGRdCCoW0gFBYrajNq5srbxKScsczEqdSoRHBJAYwK0m61loXHBPP1YOQDP5lHcUj1_cyyeAlPA-t_CKUEEtdQ?v=1753552448-uyjmIGe5ocS%2BJw1DeW7yDlFuMVfU6QcqQAsLgG2wxII%3D",
+    "downloadUrl": "https://flashbang.sh/dl/4WXseeCmimJi7nONmdVP8DgH2dvIcysvn9qydgWuiAdU2r6m2ykFWgKvkbYBsUZBUdW42prIVBqYhQUM9KWtSr0Fe_JWqhRlJg3j8Ti8fjq5v5EquP13n7nofw2Dfm-rEz1p004KkAoR-w?v=1753665387-RMRB5k4Yb5YpjqeyIaeDimA4V3M2bhp8dlulVr6GYQE%3D",
     "imageUrl": "https://steamrip.com/wp-content/uploads/2025/05/elden-ring-nightreign-preinstalled-steamrip.jpg",
     "size": "50 GB",
     "category": "Action",
@@ -885,7 +885,7 @@
     "id": "elden-ring-deluxe",
     "name": "Elden Ring Deluxe Edition",
     "description": "Elden Ring Deluxe Edition - Epic Fantasy Action RPG",
-    "downloadUrl": "https://flashbang.sh/dl/zFXUjQwfbtHyDN96FYmyTiEPZFKNxo6-VQIs_FKjJ7n7WVoO0imv5m8LJDtERRAAfDPLYnhTO8ZKEtUTNXcPJAjVUNHp9yWBw5VjH4-LkaW4cUH0gfrUIW5SBowWkGN6FAc?v=1753575489-iDIggmFARcz2CemeXoxSSvUce5TjebrJS%2BDVd40ZWBs%3D",
+    "downloadUrl": "https://flashbang.sh/dl/evkq2Lvvte3LyIGPvSvnQoKVFm1JtHCHq435zcgK_d5dwLGPy835zDQwUCeXDpEenBYMSxOASWcn3gJ53kwAc4CWB8yXtFn3uBLemCUjFduiDfs3tOchg-YvKEMyD_rts0U?v=1753665465-uBSstMeub3rSTsKDCZNp3%2Bj8AG4SjT9WlZuxvTsoDSs%3D",
     "imageUrl": "https://steamrip.com/wp-content/uploads/2022/02/elden-ring-preinstalled-steamrip.jpg",
     "size": "60 GB",
     "category": "Action",
@@ -979,6 +979,16 @@
     "imageUrl": "https://steamrip.com/wp-content/uploads/2024/02/le-mans-ultimate-preinstalled-steamrip.jpg",
     "size": "50 GB",
     "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "yakuza-4-remastered",
+    "name": "Yakuza 4 Remastered",
+    "description": "Yakuza 4 Remastered - Action Adventure",
+    "downloadUrl": "https://flashbang.sh/dl/PioS3-IEwflSQ_eNo2YU51a0Y0Fa2EYJQ0MUP4lA2TxAFqF9xN0__vUUQG679zMjYr4X90i3pgnkYW3V0W8UmO3Z4lZ_JsEtykZRAjohMyHSa9XZeE-uEwEjHzHzSM9jGauiKXKRuyw?v=1753665604-EDH7V5Zrl9AIMyLwPa%2BGt8TJ%2F7On1m%2ByxAcZDFeEpO8%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/07/Yakuza-4-Remastered_featured_final.jpg",
+    "size": "25 GB",
+    "category": "Action",
     "status": "available"
   }
 ]
