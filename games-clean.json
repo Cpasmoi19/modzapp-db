@@ -1010,5 +1010,15 @@
     "size": "31 GB",
     "category": "Action",
     "status": "available"
+  },
+  {
+    "id": "just-cause-4",
+    "name": "Just Cause 4",
+    "description": "Just Cause 4 Complete Edition - Open World Action",
+    "downloadUrl": "magnet:?xt=urn:btih:905E0BE407180AE22EE2FDCD5E6F01EA5C9B0E4A",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2021/07/just-cause-4-complete-edition-free-download-preinstalled-steamrip-1024x538.jpg",
+    "size": "65 GB",
+    "category": "Action",
+    "status": "available"
   }
 ]
