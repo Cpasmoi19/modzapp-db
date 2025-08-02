@@ -1040,5 +1040,15 @@
     "size": "5 GB",
     "category": "Sport",
     "status": "available"
+  },
+  {
+    "id": "fifa23-ultimate",
+    "name": "FIFA 23 Ultimate Edition",
+    "description": "FIFA 23 Ultimate Edition - Football Simulation",
+    "downloadUrl": "magnet:?xt=urn:btih:9af25aed2bb2d5c073e35fe938810c0b2097239c&dn=FIFA.23.Ultimate.Edition.v1.0.82.43747.zip&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.theoks.net:6969/announce&tr=udp://movies.zsw.ca:6969/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker-udp.gbitt.info:80/announce&tr=http://tracker.gbitt.info:80/announce&tr=https://tracker.gbitt.info:443/announce&tr=http://tracker.ccp.ovh:6969/announce&tr=udp://tracker.ccp.ovh:6969/announce&tr=udp://tracker.dler.com:6969/announce&tr=http://tracker.bt4g.com:2095/announce",
+    "imageUrl": "https://igg-games.com/wp-content/uploads/2023/08/EA-SPORTS-FIFA-23-Free-Download.jpg",
+    "size": "48 GB",
+    "category": "Sport",
+    "status": "available"
   }
 ]
