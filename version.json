@@ -1,8 +1,10 @@
 {
   "version": "1.0.26",
-  "lastUpdate": "2025-08-03T00:00:00Z",
-  "totalGames": 106,
+  "lastUpdate": "2025-08-03T00:02:00Z",
+  "totalGames": 107,
   "changelog": [
+    "🗡️ NOUVEAU: Assassin's Creed Mirage Master Assassin Edition ajouté !",
+    "🔫 MIS À JOUR: Call of Duty Black Ops 6 - nouveau magnet FitGirl Repack !",
     "🗑️ SUPPRIMÉ: Just Cause 4 classique (doublons) - gardé Complete Edition !",
     "🎮 NOUVEAU: Just Cause 4 Complete Edition - Action explosif avec tous les DLCs !",
     "🎮 NOUVEAU: Neon Abyss 2 - Synthwave Action Platformer ajouté !",
@@ -21,7 +23,7 @@
   ],
   "features": [
     "✅ Auto-extraction torrents intelligente",
-    "🎮 106 jeux disponibles",
+    "🎮 107 jeux disponibles",
     "🚀 Téléchargements WebTorrent ultra-rapides", 
     "🔧 Interface moderne et intuitive",
     "🎯 Support P2P optimisé",
