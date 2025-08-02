@@ -1,8 +1,11 @@
 {
-  "version": "1.0.26",
-  "lastUpdate": "2025-08-02T14:00:00Z",
-  "totalGames": 103,
+  "version": "1.0.27",
+  "lastUpdate": "2025-08-02T16:00:00Z",
+  "totalGames": 104,
   "changelog": [
+    "🛴 NOUVEAU JEU: ScootX ajouté",
+    "🏁 Sports Racing avec lien magnet P2P permanent",
+    "📈 Total: 104 jeux disponibles",
     "🌲 MISE À JOUR: Sons of the Forest - Nouvelle image + lien magnet optimisé",
     "🔥 Survival Horror avec multijoueur (25 GB au lieu de 20 GB)",
     "🎯 NOUVEAU JEU: Call of Duty: Black Ops 6 Campaign ajouté",
@@ -50,7 +53,7 @@
     "Horror": 8,
     "FPS": 8,
     "Fighting": 4,
-    "Sport": 4,
+    "Sport": 5,
     "Western": 2,
     "Adventure": 1,
     "Strategy": 1
