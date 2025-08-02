@@ -1020,5 +1020,15 @@
     "size": "65 GB",
     "category": "Action",
     "status": "available"
+  },
+  {
+    "id": "call-of-duty-black-ops-6",
+    "name": "Call of Duty: Black Ops 6",
+    "description": "Call of Duty: Black Ops 6 Campaign - First Person Shooter",
+    "downloadUrl": "https://flashbang.sh/dl/J2oQ3UNX8T4d47QbrtNgaxxiHo8cPkzS-7SR8sd5x6X4bihDvK4m55K3ttKwGNsLzwH5oypIbFCD_mBtOj9OydU2bQMXuj6gUWyMxXFJZkLae7u8yFAZZHd6g2Y?v=1754132994-Wz2JxruKo5Mh8PGqwzE1M5C6YsGPgUViEgTQ1NWN0u8%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/08/call-of-duty-black-ops-6-campaign-preinstalled-steamrip.jpg",
+    "size": "45 GB",
+    "category": "FPS",
+    "status": "available"
   }
 ]

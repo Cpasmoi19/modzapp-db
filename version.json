@@ -1,8 +1,11 @@
 {
-  "version": "1.0.24",
-  "lastUpdate": "2025-07-31T12:00:00Z",
-  "totalGames": 102,
+  "version": "1.0.25",
+  "lastUpdate": "2025-08-02T12:00:00Z",
+  "totalGames": 103,
   "changelog": [
+    "🎯 NOUVEAU JEU: Call of Duty: Black Ops 6 Campaign ajouté",
+    "🔫 FPS dernière génération avec lien flashbang.sh",
+    "📈 Total: 103 jeux disponibles",
     "🎮 NOUVEAU JEU: Just Cause 4 Complete Edition ajouté",
     "🧲 Lien magnet P2P haute performance intégré",
     "📈 Total: 102 jeux disponibles",
@@ -43,7 +46,7 @@
     "Racing": 19,
     "Simulation": 23,
     "Horror": 8,
-    "FPS": 7,
+    "FPS": 8,
     "Fighting": 4,
     "Sport": 4,
     "Western": 2,
