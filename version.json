@@ -1,42 +1,16 @@
 {
-  "version": "1.0.26",
-  "lastUpdate": "2025-08-03T00:02:00Z",
+  "version": "1.0.27",
+  "lastUpdate": "2025-08-03T00:05:00Z",
   "totalGames": 107,
   "changelog": [
-    "🗡️ NOUVEAU: Assassin's Creed Mirage Master Assassin Edition ajouté !",
-    "🔫 MIS À JOUR: Call of Duty Black Ops 6 - nouveau magnet FitGirl Repack !",
-    "🗑️ SUPPRIMÉ: Just Cause 4 classique (doublons) - gardé Complete Edition !",
-    "🎮 NOUVEAU: Just Cause 4 Complete Edition - Action explosif avec tous les DLCs !",
-    "🎮 NOUVEAU: Neon Abyss 2 - Synthwave Action Platformer ajouté !",
-    "🕷️ MIS À JOUR: Spider-Man 2 Digital Deluxe Edition - nouveau lien magnet !",
-    "⚽ NOUVEAU: FIFA 23 Ultimate Edition ajouté !",
-    "🚀 CORRECTION AUTO-EXTRACTION: Délai de sécurité 9 secondes pour torrents !",
-    "⏰ Fix WinRAR code 6: WebTorrent libère maintenant le fichier avant extraction",
-    "✅ Auto-extraction 100% fonctionnelle pour TOUS les téléchargements",
-    "🎯 Plus de conflits fichiers: délai intelligent torrent/extraction",
-    "🧹 Interface nettoyée: suppression des boutons de test/debug",
-    "🗑️ Suppression COMPLÈTE de l'ancien code d'extraction buggé",
-    "⚡ Nouveau ExtractionManager ultra-simple et efficace",
-    "🎯 Auto-extraction universelle pour TOUS les téléchargements",
-    "✅ Plus de bugs, plus de codes d'erreur mystérieux",
-    "🔥 Code clean, testé et documenté - FONCTIONNE À 100% !"
+    "🔄 MIS À JOUR: Schedule 1 v0.3.3f15 + Online Multiplayer - DODI Repack !",
+    "CORRECTION MAJEURE: Validation extraction dossiers + fichiers (fix ScootX) !"
   ],
   "features": [
-    "✅ Auto-extraction torrents intelligente",
-    "🎮 107 jeux disponibles",
-    "🚀 Téléchargements WebTorrent ultra-rapides", 
-    "🔧 Interface moderne et intuitive",
-    "🎯 Support P2P optimisé",
-    "💾 Cache intelligent pour les performances",
-    "🌐 Liens magnet automatiquement détectés",
-    "🔄 Mises à jour automatiques",
-    "🔐 Authentification sécurisée"
+    "Auto-extraction torrents intelligente",
+    "107 jeux disponibles"
   ],
   "notes": [
-    "🎯 Testez l'auto-extraction avec d'autres jeux torrents",
-    "⚠️ WinRAR requis pour l'extraction automatique",
-    "💡 Signaler tout bug via les paramètres",
-    "🔄 Redémarrer l'app si problème d'extraction",
-    "🎮 Profitez des jeux en toute simplicité !"
+    "Testez l'auto-extraction avec d'autres jeux torrents"
   ]
 }
