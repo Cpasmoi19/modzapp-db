@@ -1,12 +1,12 @@
 {
-  "version": "1.0.28",
-  "lastUpdate": "2025-08-04T15:40:00Z",
-  "totalGames": 111,
+  "version": "1.0.29",
+  "lastUpdate": "2025-08-04T15:45:00Z",
+  "totalGames": 112,
   "changelog": [
-    "🎮 NOUVEAUX JEUX AJOUTÉS: Saloon Simulator, Hentai Vs Furries, Gorilla Vs 100 Men, SIFU Digital Deluxe Edition !",
+    "� NOUVEAU JEU AJOUTÉ: Battlefield 1 Digital Deluxe Edition - FPS de la Première Guerre mondiale !",
+    "🎮 COLLECTION ÉTENDUE: Saloon Simulator, Hentai Vs Furries, Gorilla Vs 100 Men, SIFU Digital Deluxe Edition !",
     "✨ Interface améliorée: Barres de progression d'espace disque optimisées !",
-    "🎨 Design modernisé: Onglets de catégories avec gradients colorés !",
-    "🎯 Centrage optimisé des jeux disponibles sans défilement forcé !"
+    "🎨 Design modernisé: Onglets de catégories avec gradients colorés !"
   ],
   "features": [
     "Auto-extraction torrents intelligente",
