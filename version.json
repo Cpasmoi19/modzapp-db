@@ -1,8 +1,9 @@
 {
-  "version": "1.0.33",
-  "lastUpdate": "2025-08-06T15:00:00Z",
+  "version": "1.0.34",
+  "lastUpdate": "2025-08-06T16:00:00Z",
   "totalGames": 112,
   "changelog": [
+    "🔫 MISE À JOUR: Nouveau lien magnet pour DOOM Eternal (CODEX) !",
     "🏎️ MISE À JOUR: Nouveau lien magnet pour Forza Horizon 5 Premium Edition !",
     "🔥 CORRECTION ULTRA-CRITIQUE: Résolution définitive des erreurs Array buffer allocation failed !",
     "⚡ OPTIMISATION DRASTIQUE: Mémoire Electron augmentée à 8GB (8192MB) !",
@@ -10,8 +11,7 @@
     "📊 AMÉLIORATION: Chargement ultra-progressif par lots de 8-10 jeux maximum !",
     "🆘 SÉCURITÉ: Système de chargement de secours en cas d'erreur mémoire !",
     "🖼️ AMÉLIORATION MAJEURE: Images des jeux optimisées avec animations fluides !",
-    "✨ NOUVEAU: Placeholder de chargement animé et fallback stylé !",
-    "🎨 DESIGN: Effets visuels améliorés avec bordures colorées !"
+    "✨ NOUVEAU: Placeholder de chargement animé et fallback stylé !"
   ],
   "features": [
     "Auto-extraction torrents intelligente",
@@ -23,6 +23,7 @@
     "Liens magnet mis à jour régulièrement"
   ],
   "notes": [
+    "DOOM ETERNAL - NOUVEAU LIEN MAGNET CODEX !",
     "FORZA HORIZON 5 - LIEN MAGNET MIS À JOUR !",
     "CETTE VERSION RÉSOUT DÉFINITIVEMENT LES ERREURS MÉMOIRE !",
     "Testez l'auto-extraction avec d'autres jeux torrents",
