@@ -1,8 +1,9 @@
 {
-  "version": "1.0.35",
-  "lastUpdate": "2025-08-06T17:00:00Z",
-  "totalGames": 112,
+  "version": "1.0.36",
+  "lastUpdate": "2025-08-06T18:00:00Z",
+  "totalGames": 113,
   "changelog": [
+    "🎮 NOUVEAU JEU: S.T.A.L.K.E.R. 2: Heart of Chornobyl v1.5.0 ajouté !",
     "🏎️ MISE À JOUR: Forza Horizon 5 v1.663.817.0 (RUNE) - Version la plus récente !",
     "🔫 MISE À JOUR: Nouveau lien magnet pour DOOM Eternal (CODEX) !",
     "🔥 CORRECTION ULTRA-CRITIQUE: Résolution définitive des erreurs Array buffer allocation failed !",
@@ -10,12 +11,11 @@
     "🧹 NOUVEAU: Garbage collection forcé et nettoyage mémoire automatique !",
     "📊 AMÉLIORATION: Chargement ultra-progressif par lots de 8-10 jeux maximum !",
     "🆘 SÉCURITÉ: Système de chargement de secours en cas d'erreur mémoire !",
-    "🖼️ AMÉLIORATION MAJEURE: Images des jeux optimisées avec animations fluides !",
-    "✨ NOUVEAU: Placeholder de chargement animé et fallback stylé !"
+    "🖼️ AMÉLIORATION MAJEURE: Images des jeux optimisées avec animations fluides !"
   ],
   "features": [
     "Auto-extraction torrents intelligente",
-    "107 jeux disponibles",
+    "113 jeux disponibles",
     "Interface visuelle optimisée",
     "Animations fluides des images",
     "Système anti-crash mémoire ultra-robuste",
@@ -23,10 +23,10 @@
     "Liens magnet mis à jour régulièrement"
   ],
   "notes": [
+    "NOUVEAU: S.T.A.L.K.E.R. 2: Heart of Chornobyl v1.5.0 DISPONIBLE !",
     "FORZA HORIZON 5 v1.663.817.0 (RUNE) - VERSION LA PLUS RÉCENTE !",
     "DOOM ETERNAL - NOUVEAU LIEN MAGNET CODEX !",
     "CETTE VERSION RÉSOUT DÉFINITIVEMENT LES ERREURS MÉMOIRE !",
-    "Testez l'auto-extraction avec d'autres jeux torrents",
-    "Images maintenant avec animations et placeholders"
+    "Testez l'auto-extraction avec d'autres jeux torrents"
   ]
 }
