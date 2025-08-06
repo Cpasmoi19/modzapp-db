@@ -1,10 +1,10 @@
 {
-  "version": "1.0.34",
-  "lastUpdate": "2025-08-06T16:00:00Z",
+  "version": "1.0.35",
+  "lastUpdate": "2025-08-06T17:00:00Z",
   "totalGames": 112,
   "changelog": [
+    "🏎️ MISE À JOUR: Forza Horizon 5 v1.663.817.0 (RUNE) - Version la plus récente !",
     "🔫 MISE À JOUR: Nouveau lien magnet pour DOOM Eternal (CODEX) !",
-    "🏎️ MISE À JOUR: Nouveau lien magnet pour Forza Horizon 5 Premium Edition !",
     "🔥 CORRECTION ULTRA-CRITIQUE: Résolution définitive des erreurs Array buffer allocation failed !",
     "⚡ OPTIMISATION DRASTIQUE: Mémoire Electron augmentée à 8GB (8192MB) !",
     "🧹 NOUVEAU: Garbage collection forcé et nettoyage mémoire automatique !",
@@ -23,8 +23,8 @@
     "Liens magnet mis à jour régulièrement"
   ],
   "notes": [
+    "FORZA HORIZON 5 v1.663.817.0 (RUNE) - VERSION LA PLUS RÉCENTE !",
     "DOOM ETERNAL - NOUVEAU LIEN MAGNET CODEX !",
-    "FORZA HORIZON 5 - LIEN MAGNET MIS À JOUR !",
     "CETTE VERSION RÉSOUT DÉFINITIVEMENT LES ERREURS MÉMOIRE !",
     "Testez l'auto-extraction avec d'autres jeux torrents",
     "Images maintenant avec animations et placeholders"
