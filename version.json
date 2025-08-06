@@ -1,24 +1,28 @@
 {
-  "version": "1.0.31",
-  "lastUpdate": "2025-08-06T12:00:00Z",
+  "version": "1.0.32",
+  "lastUpdate": "2025-08-06T14:00:00Z",
   "totalGames": 112,
   "changelog": [
+    "� CORRECTION ULTRA-CRITIQUE: Résolution définitive des erreurs Array buffer allocation failed !",
+    "⚡ OPTIMISATION DRASTIQUE: Mémoire Electron augmentée à 8GB (8192MB) !",
+    "🧹 NOUVEAU: Garbage collection forcé et nettoyage mémoire automatique !",
+    "� AMÉLIORATION: Chargement ultra-progressif par lots de 8-10 jeux maximum !",
+    "🆘 SÉCURITÉ: Système de chargement de secours en cas d'erreur mémoire !",
     "🖼️ AMÉLIORATION MAJEURE: Images des jeux optimisées avec animations fluides !",
     "✨ NOUVEAU: Placeholder de chargement animé et fallback stylé !",
     "🎨 DESIGN: Effets visuels améliorés avec bordures colorées !",
-    "📱 RESPONSIVE: Meilleure adaptation sur mobile !",
-    "🔧 CORRECTION CRITIQUE: Résolution des erreurs mémoire JavaScript (Array buffer allocation failed) !",
-    "⚡ OPTIMISATION: Chargement des jeux par lots pour éviter la surcharge mémoire !",
-    "🖼️ AMÉLIORATION: Gestion optimisée des images avec limitation de taille !",
-    "🎮 NOUVEAU JEU: Battlefield 1 Digital Deluxe Edition ajouté !"
+    "📱 RESPONSIVE: Meilleure adaptation sur mobile !"
   ],
   "features": [
     "Auto-extraction torrents intelligente",
     "107 jeux disponibles",
     "Interface visuelle optimisée",
-    "Animations fluides des images"
+    "Animations fluides des images",
+    "Système anti-crash mémoire ultra-robuste",
+    "Chargement de secours automatique"
   ],
   "notes": [
+    "CETTE VERSION RÉSOUT DÉFINITIVEMENT LES ERREURS MÉMOIRE !",
     "Testez l'auto-extraction avec d'autres jeux torrents",
     "Images maintenant avec animations et placeholders"
   ]
