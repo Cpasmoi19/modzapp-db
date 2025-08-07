@@ -1,8 +1,9 @@
 {
-  "version": "1.0.36",
-  "lastUpdate": "2025-08-06T18:00:00Z",
+  "version": "1.0.37",
+  "lastUpdate": "2025-08-08T10:00:00Z",
   "totalGames": 113,
   "changelog": [
+    "🔗 MISE À JOUR: Nouveaux liens Flashbang pour Rust et Bodycam !",
     "🎮 NOUVEAU JEU: S.T.A.L.K.E.R. 2: Heart of Chornobyl v1.5.0 ajouté !",
     "🏎️ MISE À JOUR: Forza Horizon 5 v1.663.817.0 (RUNE) - Version la plus récente !",
     "🔫 MISE À JOUR: Nouveau lien magnet pour DOOM Eternal (CODEX) !",
@@ -10,8 +11,7 @@
     "⚡ OPTIMISATION DRASTIQUE: Mémoire Electron augmentée à 8GB (8192MB) !",
     "🧹 NOUVEAU: Garbage collection forcé et nettoyage mémoire automatique !",
     "📊 AMÉLIORATION: Chargement ultra-progressif par lots de 8-10 jeux maximum !",
-    "🆘 SÉCURITÉ: Système de chargement de secours en cas d'erreur mémoire !",
-    "🖼️ AMÉLIORATION MAJEURE: Images des jeux optimisées avec animations fluides !"
+    "🆘 SÉCURITÉ: Système de chargement de secours en cas d'erreur mémoire !"
   ],
   "features": [
     "Auto-extraction torrents intelligente",
@@ -23,10 +23,10 @@
     "Liens magnet mis à jour régulièrement"
   ],
   "notes": [
+    "RUST & BODYCAM - NOUVEAUX LIENS FLASHBANG MIS À JOUR !",
     "NOUVEAU: S.T.A.L.K.E.R. 2: Heart of Chornobyl v1.5.0 DISPONIBLE !",
     "FORZA HORIZON 5 v1.663.817.0 (RUNE) - VERSION LA PLUS RÉCENTE !",
     "DOOM ETERNAL - NOUVEAU LIEN MAGNET CODEX !",
-    "CETTE VERSION RÉSOUT DÉFINITIVEMENT LES ERREURS MÉMOIRE !",
-    "Testez l'auto-extraction avec d'autres jeux torrents"
+    "CETTE VERSION RÉSOUT DÉFINITIVEMENT LES ERREURS MÉMOIRE !"
   ]
 }
