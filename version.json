@@ -1,17 +1,18 @@
 {
-  "version": "1.0.37",
-  "lastUpdate": "2025-08-08T10:00:00Z",
-  "totalGames": 113,
+  "version": "1.0.39",
+  "lastUpdate": "2025-08-11T15:30:00Z",
+  "totalGames": 114,
   "changelog": [
+    "🎮 NOUVEAU JEU: MAFIA 3 DEFINITIVE Edition ajouté (18.6 GB) !",
+    "🔧 CORRECTION CRITIQUE: Suppression de la limitation à 30 jeux - TOUS LES JEUX DISPONIBLES !",
+    "⚡ OPTIMISATION: Affichage par lots de 16 jeux au lieu de 4 pour voir plus de contenu !",
+    "📈 AMÉLIORATION: Chargement par lots de 15 jeux au lieu de 5 pour de meilleures performances !",
     "🔗 MISE À JOUR: Nouveaux liens Flashbang pour Rust et Bodycam !",
     "🎮 NOUVEAU JEU: S.T.A.L.K.E.R. 2: Heart of Chornobyl v1.5.0 ajouté !",
     "🏎️ MISE À JOUR: Forza Horizon 5 v1.663.817.0 (RUNE) - Version la plus récente !",
     "🔫 MISE À JOUR: Nouveau lien magnet pour DOOM Eternal (CODEX) !",
     "🔥 CORRECTION ULTRA-CRITIQUE: Résolution définitive des erreurs Array buffer allocation failed !",
-    "⚡ OPTIMISATION DRASTIQUE: Mémoire Electron augmentée à 8GB (8192MB) !",
-    "🧹 NOUVEAU: Garbage collection forcé et nettoyage mémoire automatique !",
-    "📊 AMÉLIORATION: Chargement ultra-progressif par lots de 8-10 jeux maximum !",
-    "🆘 SÉCURITÉ: Système de chargement de secours en cas d'erreur mémoire !"
+    "⚡ OPTIMISATION DRASTIQUE: Mémoire Electron augmentée à 8GB (8192MB) !"
   ],
   "features": [
     "Auto-extraction torrents intelligente",
@@ -23,10 +24,10 @@
     "Liens magnet mis à jour régulièrement"
   ],
   "notes": [
+    "CORRECTION IMPORTANTE: TOUS LES 113 JEUX SONT MAINTENANT VISIBLES !",
+    "FINI LA LIMITATION À 30 JEUX - CATALOGUE COMPLET DISPONIBLE !",
     "RUST & BODYCAM - NOUVEAUX LIENS FLASHBANG MIS À JOUR !",
     "NOUVEAU: S.T.A.L.K.E.R. 2: Heart of Chornobyl v1.5.0 DISPONIBLE !",
-    "FORZA HORIZON 5 v1.663.817.0 (RUNE) - VERSION LA PLUS RÉCENTE !",
-    "DOOM ETERNAL - NOUVEAU LIEN MAGNET CODEX !",
     "CETTE VERSION RÉSOUT DÉFINITIVEMENT LES ERREURS MÉMOIRE !"
   ]
 }
