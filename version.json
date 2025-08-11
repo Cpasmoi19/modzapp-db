@@ -1,8 +1,12 @@
 {
-  "version": "1.0.43",
-  "lastUpdate": "2025-08-11T17:15:00Z",
-  "totalGames": 115,
+  "version": "1.0.44",
+  "lastUpdate": "2025-08-11T22:37:00Z",
+  "totalGames": 118,
   "changelog": [
+    "🎮 NOUVEAUX JEUX: Trilogie Resident Evil ajoutée !",
+    "🧟 RESIDENT EVIL 4: Ultimate HD Edition (13.3 GB) - Survival Horror Classic !",
+    "🧟 RESIDENT EVIL 7: Biohazard Gold Edition (21.1 GB) - First Person Horror !",
+    "🧟 RESIDENT EVIL 3: Remake (14.4 GB) - Survival Horror Remake !",
     "🔗 MISE À JOUR: Nouveaux liens pour Phasmophobia et Pacify !",
     "🔐 RÉVOLUTION SÉCURITÉ: Système HWID intégré dans l'authentification par clé !",
     "🛡️ PROTECTION AUTOMATIQUE: Une clé = Une machine (liaison automatique au premier usage) !",
@@ -26,7 +30,9 @@
     "Liens magnet mis à jour régulièrement"
   ],
   "notes": [
-    "CORRECTION IMPORTANTE: TOUS LES 113 JEUX SONT MAINTENANT VISIBLES !",
+    "NOUVEAUTÉ: TRILOGIE RESIDENT EVIL COMPLÈTE AJOUTÉE !",
+    "RE4 ULTIMATE HD + RE7 GOLD + RE3 REMAKE DISPONIBLES !",
+    "CORRECTION IMPORTANTE: TOUS LES 118 JEUX SONT MAINTENANT VISIBLES !",
     "FINI LA LIMITATION À 30 JEUX - CATALOGUE COMPLET DISPONIBLE !",
     "RUST & BODYCAM - NOUVEAUX LIENS FLASHBANG MIS À JOUR !",
     "NOUVEAU: S.T.A.L.K.E.R. 2: Heart of Chornobyl v1.5.0 DISPONIBLE !",
