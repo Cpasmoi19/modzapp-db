@@ -1201,5 +1201,15 @@
     "size": "31.1 GB",
     "category": "Adventure",
     "status": "available"
+  },
+  {
+    "id": "assassins-creed-syndicate",
+    "name": "Assassin's Creed Syndicate",
+    "description": "Assassin's Creed Syndicate - Victorian London Adventure",
+    "downloadUrl": "magnet:?xt=urn:btih:31D6E5FD572688BC51460E86FDD83B1BE5651F6E",
+    "imageUrl": "https://i76.fastpic.org/big/2016/0326/c1/ba2b9af6dafb9720278b64c0988cacc1.jpg?md5=OUt25TTTyyDFI3sv01Cw2A&expires=1754960400",
+    "size": "N/A",
+    "category": "Action",
+    "status": "available"
   }
 ]
