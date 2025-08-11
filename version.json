@@ -1,8 +1,9 @@
 {
-  "version": "1.0.42",
-  "lastUpdate": "2025-08-11T17:10:00Z",
+  "version": "1.0.43",
+  "lastUpdate": "2025-08-11T17:15:00Z",
   "totalGames": 115,
   "changelog": [
+    "🔗 MISE À JOUR: Nouveaux liens pour Phasmophobia et Pacify !",
     "🔐 RÉVOLUTION SÉCURITÉ: Système HWID intégré dans l'authentification par clé !",
     "🛡️ PROTECTION AUTOMATIQUE: Une clé = Une machine (liaison automatique au premier usage) !",
     "🚫 ANTI-PIRATAGE: Impossible d'utiliser la même clé sur plusieurs PC !",
