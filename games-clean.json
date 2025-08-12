@@ -625,7 +625,7 @@
     "id": "planet-zoo",
     "name": "Planet Zoo",
     "description": "Planet Zoo - Animal Park Management",
-    "downloadUrl": "magnet:?xt=urn:btih:4CEBF0A417815AD4D31025FA3279AE4D136CAF62",
+    "downloadUrl": "magnet:?xt=urn:btih:a4b2c5ef48501ae0784fe84c1bd6f70e75aaed0b&dn=Planet.Zoo.FULL.UNLOCKED.zip&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://p4p.arenabg.ch:1337/announce&tr=udp://eddie4.nl:6969/announce&tr=udp://tracker.zer0day.to:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=udp://tracker.internetwarriors.net:1337/announce&tr=udp://9.rarbg.me:2720/announce&tr=udp://9.rarbg.to:2800/announce&tr=http://nyaa.tracker.wf:7777/announce&tr=http://sukebei.tracker.wf:8888/announce&tr=http://anidex.moe:6969/announce",
     "imageUrl": "https://steamrip.com/wp-content/uploads/2021/09/planet-zoo-free-download-preinstalled-steamrip.jpg",
     "size": "16 GB",
     "category": "Simulation",
@@ -1208,6 +1208,36 @@
     "description": "Assassin's Creed Syndicate - Victorian London Adventure",
     "downloadUrl": "magnet:?xt=urn:btih:31D6E5FD572688BC51460E86FDD83B1BE5651F6E",
     "imageUrl": "https://i76.fastpic.org/big/2016/0326/c1/ba2b9af6dafb9720278b64c0988cacc1.jpg?md5=OUt25TTTyyDFI3sv01Cw2A&expires=1754960400",
+    "size": "N/A",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "call-of-duty-infinite-warfare-dde",
+    "name": "Call of Duty Infinite Warfare Digital Deluxe Edition",
+    "description": "Call of Duty: Infinite Warfare - Digital Deluxe Edition",
+    "downloadUrl": "magnet:?xt=urn:btih:57d459e1d305060bb6a8b70abcc24e21f23ed262&dn=Call+of+Duty%3A+Infinite+Warfare+-+Digital+Deluxe+Edition+%28Proper+MULTI10%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+37.7+GB%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce",
+    "imageUrl": "https://igrozoom.ru/Minigames/Shooter/Poster_2/cod_infinite_warfare_dde.jpg",
+    "size": "37.7 GB",
+    "category": "Shooter",
+    "status": "available"
+  },
+  {
+    "id": "marvels-spider-man-miles-morales",
+    "name": "Marvels Spider Man Miles Morales",
+    "description": "Marvel's Spider-Man: Miles Morales - Ultimate Edition",
+    "downloadUrl": "https://flashbang.sh/dl/wgc8EV0uiMZ9eCRULsTDfYrYfcO2V22z3DbfN3waE6JHMwcHVZZSdHDbIDFkcMfOK3PH1OcyjCb0zXhI70icNHG2ytzrxzZILDuVt9eZ2l-7HsDBT7LJSpFn7VSZARsV1qs?v=1755035567-57N7etoTzLJcmOMZ0ynxsnQPVfFSjqhOQ8ombaUdCRo%3D",
+    "imageUrl": "https://m.media-amazon.com/images/I/81eDhkJqkTL._SL1500_.jpg",
+    "size": "N/A",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "marvels-spider-man-remastered",
+    "name": "Marvel's Spider-Man Remastered",
+    "description": "Marvel's Spider-Man Remastered - Complete Edition",
+    "downloadUrl": "https://flashbang.sh/dl/5T1ENkMcIS4il7x0K8bZ6ok7WZev67VYEWLmUqldLB_kEWlerkbRycj_Y1Gazgo-3_yOGCak5n2WmCvbw7CoxNJ9w71mCQwyMXz0VUkVkoJSuKJ_vSfavJviXOCCYN3NOQ?v=1755035652-lKPqQ2aOTrlhTbM42lPCvJ9E6w%2FcmK4paDHEIqYrTyU%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2022/08/marvels-spider-man-remastered-preinstalled-steamrip.jpg",
     "size": "N/A",
     "category": "Action",
     "status": "available"
