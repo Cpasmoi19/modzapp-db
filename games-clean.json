@@ -1241,5 +1241,15 @@
     "size": "N/A",
     "category": "Action",
     "status": "available"
+  },
+  {
+    "id": "hitman-2-gold-edition",
+    "name": "HITMAN 2: Gold Edition",
+    "description": "HITMAN 2: Gold Edition - Stealth Action",
+    "downloadUrl": "magnet:?xt=urn:btih:E890FBE5DA0D6EF1D15343EEB533FDDE3F91153D",
+    "imageUrl": "https://i106.fastpic.ru/big/2018/1127/91/c3dacdef61921e8c6eb1f5eb00c44091.jpg",
+    "size": "N/A",
+    "category": "Stealth",
+    "status": "available"
   }
 ]

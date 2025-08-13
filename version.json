@@ -1,8 +1,9 @@
 {
-  "version": "1.0.51",
-  "lastUpdate": "2025-08-13T10:30:00Z",
-  "totalGames": 124,
+  "version": "1.0.52",
+  "lastUpdate": "2025-08-13T11:00:00Z",
+  "totalGames": 125,
   "changelog": [
+    "🎯 NOUVEAU JEU: HITMAN 2: Gold Edition ajouté !",
     "🧟 MISE À JOUR: Nouveau lien magnet pour Dead Island 2 (EMPRESS) !",
     "🏁 MISE À JOUR: Nouveau lien magnet pour Le Mans Ultimate (RUNE) !",
     "🔗 MISE À JOUR: Nouveau lien magnet pour Planet Zoo (FULL UNLOCKED) !",
@@ -31,7 +32,7 @@
   ],
   "features": [
   "Auto-extraction torrents intelligente",
-  "124 jeux disponibles",
+  "125 jeux disponibles",
     "Interface visuelle optimisée",
     "Animations fluides des images",
     "Système anti-crash mémoire ultra-robuste",
@@ -39,6 +40,8 @@
     "Liens magnet mis à jour régulièrement"
   ],
   "notes": [
+    "🆕 NOUVEAU: HITMAN 2: Gold Edition DISPONIBLE !",
+    "🎯 STEALTH ACTION: Incarnez l'Agent 47 dans ses missions les plus dangereuses !",
     "🧟 MISE À JOUR: Dead Island 2 - Nouveau lien EMPRESS disponible !",
     "💀 DEAD ISLAND 2: Version EMPRESS Gold Edition optimisée !",
     "🏁 MISE À JOUR: Le Mans Ultimate - Nouveau lien RUNE disponible !",
