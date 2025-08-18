@@ -1,9 +1,12 @@
 {
-  "version": "1.0.67",
-  "lastUpdate": "2025-08-18T14:30:00Z",
+  "version": "1.0.68",
+  "lastUpdate": "2025-08-18T15:00:00Z",
   "totalGames": 129,
   "changelog": [
-    "🔫 MISE À JOUR: Nouveau lien magnet TAP pour Call of Duty Infinite Warfare (plus stable) !",
+    "🔫 MISE À JOUR: Lien magnet Rutor v6.0.1211685 pour Call of Duty Infinite Warfare DDE !",
+    "🌐 SOURCE FIABLE: Rutor.info avec FitGirl Repack officiel",
+    "📡 TRACKERS OPTIMISÉS: opentor.org + retracker.local pour meilleure disponibilité",
+    "🎮 VERSION PRÉCISE: Build 6.0.1211685 (2016) - Version stable",
     "🛡️ CORRECTION CRITIQUE: Protection contre les erreurs d'allocation mémoire",
     "🧠 GESTION MÉMOIRE: Limite de 100MB pour les buffers et allocation sécurisée",
     "🚫 DÉSACTIVATION UTP: Protocole UTP désactivé pour éviter les crashs",
