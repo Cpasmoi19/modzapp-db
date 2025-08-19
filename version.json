@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "lastUpdate": "2025-08-19T12:00:00Z",
   "totalGames": 129,
   "changelog": [
@@ -54,8 +54,8 @@
     "🚫 ANTI-PIRATAGE: Impossible d'utiliser la même clé sur plusieurs PC !",
     "⚡ SIMPLIFICATION: Plus d'étape HWID séparée - tout se fait avec la clé !",
     "📊 LOGS AVANCÉS: Enregistrement de toutes les tentatives d'accès non autorisées !",
-  "🎮 NOUVEAU JEU: REDLINE CROOKS ajouté (5 GB) !",
-  "🎮 JEU PRÉCÉDENT: MAFIA 3 DEFINITIVE Edition ajouté (18.6 GB) !",
+    "🎮 NOUVEAU JEU: REDLINE CROOKS ajouté (5 GB) !",
+    "🎮 JEU PRÉCÉDENT: MAFIA 3 DEFINITIVE Edition ajouté (18.6 GB) !",
     "🔧 CORRECTION CRITIQUE: Suppression de la limitation à 30 jeux - TOUS LES JEUX DISPONIBLES !",
     "⚡ OPTIMISATION: Affichage par lots de 16 jeux au lieu de 4 pour voir plus de contenu !",
     "📈 AMÉLIORATION: Chargement par lots de 15 jeux au lieu de 5 pour de meilleures performances !",
