@@ -1,12 +1,18 @@
 {
-  "version": "1.0.70",
+  "version": "2.0.0",
   "lastUpdate": "2025-08-19T12:00:00Z",
   "totalGames": 129,
   "changelog": [
-    "🔫 MISE À JOUR: Nouveau lien magnet pour Call of Duty Infinite Warfare DDE (FitGirl Repack)!",
-    "🎯 MISE À JOUR: Nouveau lien Flashbang pour Bodycam (FPS tactique) !",
-    "🔫 MISE À JOUR: Lien magnet Rutor v6.0.1211685 pour Call of Duty Infinite Warfare DDE !",
-    "🌐 SOURCE FIABLE: Rutor.info avec FitGirl Repack officiel",
+    "🚀 VERSION MAJEURE 2.0: Interface complètement redessinée !",
+    "🎮 INTERFACE CYBERPUNK: Page d'authentification avec thème gaming et particules animées",
+    "🖼️ IMAGES OPTIMISÉES: Affichage amélioré des jaquettes avec luminosité et contraste renforcés",
+    "📱 RESPONSIVE DESIGN: Interface s'adapte parfaitement aux petits écrans",
+    "🔄 SYSTÈME AUTO-UPDATE: Notifications modernes avec bouton 'Mettre à jour' en un clic",
+    "⚙️ PANEL ADMIN: Interface d'administration accessible avec Ctrl+Shift+A",
+    "🖥️ OUVERTURE MAXIMISÉE: L'application s'ouvre automatiquement en plein écran",
+    "🎯 UX AMÉLIORÉE: Transitions fluides et effets visuels au survol des images",
+    "🔨 BUILD SYSTEM: Scripts de compilation automatisés et optimisés",
+    "🛡️ SÉCURITÉ RENFORCÉE: Authentification HWID et gestion des permissions",
     "📡 TRACKERS OPTIMISÉS: opentor.org + retracker.local pour meilleure disponibilité",
     "🎮 VERSION PRÉCISE: Build 6.0.1211685 (2016) - Version stable",
     "🛡️ CORRECTION CRITIQUE: Protection contre les erreurs d'allocation mémoire",
@@ -15,7 +21,7 @@
     "📊 OPTIMISATION: Limitation des connexions torrent à 50 pour économiser la RAM",
     "💬 MESSAGES CLAIRS: Erreurs traduites en français pour les utilisateurs",
     "🔧 TÉLÉCHARGEMENT SÉQUENTIEL: Mode séquentiel pour économiser la mémoire",
-    " NOUVELLE FONCTIONNALITÉ: Détection automatique des jeux installés !",
+    "🔍 NOUVELLE FONCTIONNALITÉ: Détection automatique des jeux installés !",
     "📚 AUTO-SCAN: Les jeux installés sont automatiquement détectés et ajoutés à la bibliothèque !",
     "🎮 BOUTON SCANNER: Nouveau bouton dans la bibliothèque pour scanner manuellement !",
     "✨ INTELLIGENCE: Détection intelligente basée sur les dossiers de jeux !",
@@ -42,6 +48,7 @@
     "🧟 RESIDENT EVIL 7: Biohazard Gold Edition (21.1 GB) - First Person Horror !",
     "🧟 RESIDENT EVIL 3: Remake (14.4 GB) - Survival Horror Remake !",
     "🔗 MISE À JOUR: Nouveaux liens pour Phasmophobia et Pacify !",
+    "🚗 MISE À JOUR: Nouveau lien Flashbang pour BeamNG Drive - Simulation de véhicules optimisée !",
     "🔐 RÉVOLUTION SÉCURITÉ: Système HWID intégré dans l'authentification par clé !",
     "🛡️ PROTECTION AUTOMATIQUE: Une clé = Une machine (liaison automatique au premier usage) !",
     "🚫 ANTI-PIRATAGE: Impossible d'utiliser la même clé sur plusieurs PC !",
@@ -55,6 +62,7 @@
     "🔗 MISE À JOUR: Nouveaux liens Flashbang pour Rust et Bodycam !"
   ],
   "features": [
+  "Nouvelle interface modernisée (styles-new.css) activée",
   "Auto-extraction torrents intelligente",
   "125 jeux disponibles",
     "Interface visuelle optimisée",
@@ -64,6 +72,8 @@
     "Liens magnet mis à jour régulièrement"
   ],
   "notes": [
+    "🚗 MISE À JOUR: BeamNG Drive - Nouveau lien Flashbang disponible !",
+    "🏎️ BEAMNG DRIVE: Lien Flashbang optimisé pour de meilleures performances de téléchargement !",
     "🏎️ MISE À JOUR: Collection Need for Speed - Nouveaux liens Flashbang !",
     "🚗 NFS UNDERCOVER: Nouveau lien Flashbang optimisé disponible !",
     "🏁 NFS MW BLACK: Lien Flashbang mis à jour pour de meilleures performances !",
