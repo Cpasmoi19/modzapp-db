@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
-  "lastUpdate": "2025-08-19T12:00:00Z",
+  "version": "2.0.2",
+  "lastUpdate": "2025-08-19T14:00:00Z",
   "totalGames": 129,
   "changelog": [
     "🚀 VERSION MAJEURE 2.0: Interface complètement redessinée !",
@@ -48,6 +48,7 @@
     "🧟 RESIDENT EVIL 7: Biohazard Gold Edition (21.1 GB) - First Person Horror !",
     "🧟 RESIDENT EVIL 3: Remake (14.4 GB) - Survival Horror Remake !",
     "🔗 MISE À JOUR: Nouveaux liens pour Phasmophobia et Pacify !",
+    "🎯 MISE À JOUR: Nouveau lien Flashbang pour Bodycam - FPS tactique optimisé !",
     "🚗 MISE À JOUR: Nouveau lien Flashbang pour BeamNG Drive - Simulation de véhicules optimisée !",
     "🔐 RÉVOLUTION SÉCURITÉ: Système HWID intégré dans l'authentification par clé !",
     "🛡️ PROTECTION AUTOMATIQUE: Une clé = Une machine (liaison automatique au premier usage) !",
@@ -72,6 +73,8 @@
     "Liens magnet mis à jour régulièrement"
   ],
   "notes": [
+    "🎯 MISE À JOUR: Bodycam - Nouveau lien Flashbang disponible !",
+    "🔫 BODYCAM: Lien Flashbang optimisé pour de meilleures performances de téléchargement !",
     "🚗 MISE À JOUR: BeamNG Drive - Nouveau lien Flashbang disponible !",
     "🏎️ BEAMNG DRIVE: Lien Flashbang optimisé pour de meilleures performances de téléchargement !",
     "🏎️ MISE À JOUR: Collection Need for Speed - Nouveaux liens Flashbang !",
