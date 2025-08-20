@@ -1311,5 +1311,15 @@
     "size": "N/A",
     "category": "Action",
     "status": "available"
+  },
+  {
+    "id": "test-drive-unlimited-2",
+    "name": "Test Drive Unlimited 2",
+    "description": "Test Drive Unlimited 2 - Open World Racing",
+    "downloadUrl": "magnet:?xt=urn:btih:1061849edeed2e80f15e33ee223a4f64345d259f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://bt.rutor.info:2710&tr=http://retracker.local/announce",
+    "imageUrl": "http://i70.fastpic.ru/big/2015/0802/49/7d18508e305db65bd03e8709f6902349.jpg",
+    "size": "8.5 GB",
+    "category": "Racing",
+    "status": "available"
   }
 ]
