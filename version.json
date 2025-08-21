@@ -1,9 +1,10 @@
 {
-  "version": "2.2.3",
-  "lastUpdate": "2025-08-21T03:00:00Z",
+  "version": "2.2.4",
+  "lastUpdate": "2025-08-21T03:30:00Z",
   "totalGames": 132,
   "changelog": [
-  "🔗 LIEN MIS À JOUR: Need for Speed Underground 2 - Nouveau lien MegaDL",
+    "🖼️ IMAGES CORRIGÉES: Red Dead Redemption 2, Call of Duty Black Ops II, GTA Trilogy - URLs externes",
+    "🔗 LIEN MIS À JOUR: Need for Speed Underground 2 - Nouveau lien MegaDL",
     "🛠️ CORRECTIFS: Résolution des problèmes d'authentification SystemID",
     "🛡️ ANTI-ANTIVIRUS: Modifications majeures pour réduire les faux positifs !",
     "🔄 TERMES MODIFIÉS: Remplacement des termes suspects (torrent→transfer, HWID→SystemID)",
