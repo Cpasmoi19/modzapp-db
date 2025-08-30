@@ -1361,5 +1361,35 @@
     "size": "8.5 GB",
     "category": "Racing",
     "status": "available"
+  },
+  {
+    "id": "one-piece-pirate-warriors-4",
+    "name": "One Piece: Pirate Warriors 4 Ultimate Edition",
+    "description": "One Piece: Pirate Warriors 4 Ultimate Edition + 17 DLC",
+    "downloadUrl": "magnet:?xt=urn:btih:B7BFD5390FE3F23E3768D9E521475DB7471191F1&dn=One+Piece%3A+Pirate+Warriors+4+-+Ultimate+Edition+%28v1.0.8.0+%2B+17+DLCs%2C+MULTi13%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+16.6+GB%5D",
+    "imageUrl": "https://i2.imageban.ru/out/2023/09/17/68c03ae627916a6a2b470afc66f9a315.jpg",
+    "size": "16.6 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "universe-sandbox",
+    "name": "Universe Sandbox",
+    "description": "Universe Sandbox - Space Simulation Game",
+    "downloadUrl": "https://download1648.mediafire.com/q9020pwk2i0gqOfl9ogfYy0H_E-J8J9_OIlOMs3ev_puZ7tSW4PPPnj1PvxLFxqjsnFVWfVt99nMmtp3Rn7qG0D3hgUB_DXZPrdL1jmXcKIUxvQ29hZog-IY7r0xNMuzOf0T9jQo3zccmpb_3gACVz4NZzEap-04aF2U_NbTSeZk/3yrhliw6c0lc5u7/Universe.Sandbox.Build.19728685.zip",
+    "imageUrl": "https://igg-games.com/wp-content/uploads/2018/12/Universe-Sandbox-Free-Download-1.jpg",
+    "size": "2.5 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "space-engineers",
+    "name": "Space Engineers Ultimate Edition",
+    "description": "Space Engineers Ultimate Edition + 20 DLC",
+    "downloadUrl": "magnet:?xt=urn:btih:CD3264523E3088246CDC20742816DA7B163A761B&dn=Space+Engineers%3A+Ultimate+Edition+%28v1.206.030+b1+%2B+20+DLCs%2A%2C+MULTi26%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+11.3+GB%5D",
+    "imageUrl": "https://i6.imageban.ru/out/2025/05/13/a8b6f2528560360ad32c4116e0845422.jpg",
+    "size": "11.3 GB",
+    "category": "Simulation",
+    "status": "available"
   }
 ]
