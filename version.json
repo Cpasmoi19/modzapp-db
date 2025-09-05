@@ -1,8 +1,11 @@
 {
-  "version": "2.3.2",
-  "lastUpdate": "2025-08-31T01:00:00Z",
+  "version": "2.3.3",
+  "lastUpdate": "2025-09-05T12:00:00Z",
   "totalGames": 139,
   "changelog": [
+    "🚛 MISE À JOUR: Euro Truck Simulator 2 v1.53.2.1s + 94 DLCs - Lien magnet et image mis à jour",
+    "🔧 CORRECTIF: Correction des clés JSON dupliquées dans games-clean.json",
+    "📦 OPTIMISATION: Structure JSON nettoyée pour une meilleure performance",
     "🔗 LIEN MIS À JOUR: Bodycam - Nouveau lien Flashbang",
     "🔗 LIEN MIS À JOUR: City Car Driving - Nouveau lien Flashbang",
     "🆕 NOUVEAUX JEUX: Gold Mining Simulator, PayDay 2 106 DLC, City Car Driving",
