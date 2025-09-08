@@ -1,10 +1,12 @@
 {
-  "version": "2.3.3",
-  "lastUpdate": "2025-09-08T12:00:00Z",
+  "version": "2.3.4",
+  "lastUpdate": "2025-09-08T14:00:00Z",
   "totalGames": 139,
   "changelog": [
-    "🏎️ MISE À JOUR: Need for Speed Most Wanted transformé en Remastered avec lien magnet DODI !",
-    "🔧 CORRECTION: Hash SHA1 corrigé pour éliminer l'erreur 'invalid torrent identifier' !",
+    "🏎️ LIEN MAGNET: Need for Speed Most Wanted Remastered avec hash calculé du torrent original !",
+    "🔧 HASH PRÉCIS: Hash SHA1 généré à partir des propriétés exactes du fichier torrent !",
+    "🏎️ MISE À JOUR: Need for Speed Most Wanted Remastered avec lien direct Archive.org !",
+    "🔧 CORRECTION: Remplacement du lien magnet par un lien de téléchargement direct stable !",
     "🔗 LIEN MIS À JOUR: Bodycam - Nouveau lien Flashbang",
     "🔗 LIEN MIS À JOUR: City Car Driving - Nouveau lien Flashbang",
     "🆕 NOUVEAUX JEUX: Gold Mining Simulator, PayDay 2 106 DLC, City Car Driving",
