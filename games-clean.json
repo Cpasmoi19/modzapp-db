@@ -1441,5 +1441,15 @@
     "size": "65 GB",
     "category": "Adventure",
     "status": "available"
+  },
+  {
+    "id": "better-mart",
+    "name": "Better Mart",
+    "description": "Better Mart - Supermarket Management Simulation Game",
+    "downloadUrl": "https://flashbang.sh/dl/5fXp1fm5HI_pCwjOuTxmxkykFqyUlT5SqoFVm7-HIB0ZWNOp8lAbtefFGP4wQEdCDGHCF0s7UBZCYq7nGv4SD04r7_iUT3b70zh6M3g7ZTlo_y8m25az8Oe7YXPkNKNB?v=1757597899-0ZJi9cexl1hEvLw4ypfoPI0Bl3VPrgSqba1bnFhhEsA%3D",
+    "imageUrl": "https://steamrip.com/wp-content/uploads/2025/05/better-mart-preinstalled-steamrip.jpg",
+    "size": "2 GB",
+    "category": "Simulation",
+    "status": "available"
   }
 ]
