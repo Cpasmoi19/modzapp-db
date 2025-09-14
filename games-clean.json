@@ -835,7 +835,7 @@
     "id": "liars-bar",
     "name": "Liar's Bar",
     "description": "Liar's Bar - Social Deduction Game",
-    "downloadUrl": "https://download131.uploadhaven.com/1/application/zip/FJl0cJwVUJimJAUyurdzgQcLo1QXdT5BVGSF8RMG.zip?key=gqjOjP51Qv9qVrnlH2mxsQ&expire=1753821180&filename=Liars.Bar.v0.86.Multiplayer.zip",
+    "downloadUrl": "https://flashbang.sh/dl/P0nQrLChR3hvom1GS9x2U28jRYv13xAKvlD08tMI0sDob7XS4dwvyxVmiQNELXvkBCsw6RFttbR4bbsHZ9tdaSNWbVJgLkVrdSJS1OfjH76W9v_L2LoQ91w4-524GQ?v=1757872663-OGwI1HCXDkBIiI0bapLEMJCYvKd9I9QI1NGX3vMQerc%3D",
     "imageUrl": "https://steamrip.com/wp-content/uploads/2024/10/liars-bar-preinstalled-steamrip.jpg",
     "size": "3 GB",
     "category": "Simulation",
@@ -1460,6 +1460,56 @@
     "imageUrl": "https://i6.imageban.ru/out/2021/08/12/a4ba65af20bc5e396f1d840d0215d909.jpeg",
     "size": "14 GB",
     "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "fernbus-simulator-2-dlcs",
+    "name": "Fernbus Simulator 2 DLCs",
+    "description": "Fernbus Simulator avec 2 DLCs - Simulation de transport par autocar",
+    "downloadUrl": "magnet:?xt=urn:btih:97C781C9C5D2571EE8C76548222796A015E354C2",
+    "imageUrl": "http://i91.fastpic.ru/big/2017/1022/a0/b1ce575a49cae064251e472de32eb9a0.jpg",
+    "size": "8 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "borderlands-2",
+    "name": "Borderlands 2",
+    "description": "Borderlands 2 - FPS/RPG avec action coopérative dans l'univers de Pandora",
+    "downloadUrl": "magnet:?xt=urn:btih:A3D70ADD0571F03D5E4C749E300F6748D1FC68FE",
+    "imageUrl": "http://i102.fastpic.ru/big/2018/0130/f8/4d8220a585f9718eb779c8b72794a1f8.jpg",
+    "size": "12 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "stranded-deep",
+    "name": "Stranded Deep",
+    "description": "Stranded Deep [DODI Repack] - Survie sur île déserte en océan Pacifique",
+    "downloadUrl": "magnet:?xt=urn:btih:2AXPAQ53T5HMBOPQQ2DUQGUSF26X67PX&dn=Stranded%20Deep%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+    "imageUrl": "https://i7.imageban.ru/out/2022/11/28/fe27886e17a5b4ae9c5111c0a3cd81b4.jpg",
+    "size": "4 GB",
+    "category": "Survival",
+    "status": "available"
+  },
+  {
+    "id": "football-manager-2023",
+    "name": "Football Manager 2023",
+    "description": "Football Manager 2023 [DODI Repack] - Simulation de gestion de football",
+    "downloadUrl": "magnet:?xt=urn:btih:3EJKC5SUIP5YEFMU67GSN547M4DDMJX5&dn=Football%20Manager%202023%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+    "imageUrl": "https://i1.imageban.ru/out/2023/02/19/016d67fc60f9ae98edf23e15dcd7bd0a.jpg",
+    "size": "6 GB",
+    "category": "Sports",
+    "status": "available"
+  },
+  {
+    "id": "hearts-of-iron-iv-ultimate",
+    "name": "Hearts of Iron IV Ultimate Edition",
+    "description": "Hearts of Iron IV [DODI Repack] - Stratégie de la Seconde Guerre mondiale",
+    "downloadUrl": "magnet:?xt=urn:btih:JMMLS5Y7YMK264TN6IGACINY3O2GFVBK&dn=Hearts%20of%20Iron%20IV%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+    "imageUrl": "http://i80.fastpic.ru/big/2016/0606/33/a5c4b11fcb8b5855e38df671cf631c33.jpg",
+    "size": "10 GB",
+    "category": "Strategy",
     "status": "available"
   }
 ]
