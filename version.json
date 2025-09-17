@@ -1,35 +1,25 @@
 {
-  "version": "2.3.13",
-  "lastUpdate": "2025-09-14T16:45:00Z",
+  "version": "2.3.2",
+  "lastUpdate": "2025-09-17T22:35:00Z",
   "totalGames": 151,
+  "totalImages": 152,
+  "newFeatures": [
+    "🔄 ÉCRAN DE CHARGEMENT: Interface élégante avec téléchargement automatique d'images après authentification",
+    "🖼️ SYSTÈME D'IMAGES COMPLET: 152 jeux avec téléchargement automatique depuis IGDB et Steam CDN",
+    "📊 PROGRESSION EN TEMPS RÉEL: Barre de progression avec pourcentages et noms de jeux",
+    "⚡ LANCEMENT AUTOMATIQUE: L'app se lance automatiquement après le téléchargement des images",
+    "🛡️ SÉCURITÉ RENFORCÉE: Communication IPC sécurisée via preload scripts",
+    "🎨 DESIGN MODERNE: Animations CSS, spinner élégant et interface responsive",
+    "🚀 EXPÉRIENCE CLIENT OPTIMALE: Zéro intervention manuelle, tout est automatique"
+  ],
   "changelog": [
-    "🔗 LIEN MIS À JOUR: Liar's Bar - Nouveau lien flashbang.sh optimisé !",
-    "🚌 FERNBUS SIMULATOR: 2 DLCs - Simulation de transport par autocar !",
-    "💥 BORDERLANDS 2: FPS/RPG action coopérative dans l'univers de Pandora !",
-    "🏝️ STRANDED DEEP: [DODI Repack] - Survie sur île déserte en océan Pacifique !",
-    "⚽ FOOTBALL MANAGER 2023: [DODI Repack] - Simulation de gestion de football !",
-    "⚔️ HEARTS OF IRON IV: Ultimate Edition [DODI Repack] - Stratégie WWII !",
-    "🔧 CAR MECHANIC SIMULATOR 2021: [DODI Repack] - Simulation mécanique automobile réaliste !",
-    "🛒 BETTER MART: Better Mart - Simulation de gestion de supermarché addictive !",
-    "🏺 INDIANA JONES: Indiana Jones and the Great Circle ALL DLC [DODI Repack] - Aventure archéologique épique !",
-    "🔄 MW3 CORRIGÉ: Call of Duty Modern Warfare 3 - Nouveau lien magnet optimisé !",
-    "🎯 CALL OF DUTY COLLECTION: 4 nouveaux COD ajoutés + Vanguard mis à jour !",
-    "🔫 COD 4 MODERN WARFARE: [DODI Repack] - Le classique qui a tout changé !",
-    "⚔️ COD 2: [DODI Repack] - Retour aux origines de la Seconde Guerre mondiale !",
-    "🚁 COD MODERN WARFARE III: Campaign [DODI Repack] - L'aventure continue !",
-    "❄️ COD BLACK OPS COLD WAR: Ultimate [DODI Repack] - Guerre froide explosive !",
-    "🎖️ COD VANGUARD: Lien et image mis à jour [DODI Repack] !",
-    "🔗 LIENS MASSIFS: 4 jeux mis à jour - Underground 2, Streamer Life 2, NFS Rivals, Internet Cafe Simulator 2 !",
-    "🏎️ NFS UNDERGROUND 2: Real Remaster [DODI Repack] - Lien magnet optimisé !",
-    "📺 STREAMER LIFE 2: Nouveau lien direct MegaDB - Téléchargement plus rapide !",
-    "🏁 NFS RIVALS: [DODI Repack] - Lien magnet avec tracker TrackerFix !",
-    "☕ INTERNET CAFE SIM 2: [FitGirl Repack] avec nouvelle image optimisée !",
-    "✅ HASH VALIDÉ: Need for Speed Most Wanted Remastered - Hash de torrent vérifié et fonctionnel !",
-    "🔧 HASH CORRIGÉ: Need for Speed Most Wanted Remastered - Nouveau hash optimisé pour le téléchargement !",
-    "🔧 HASH PRÉCIS: Hash SHA1 généré à partir des propriétés exactes du fichier torrent !",
-    "🏎️ MISE À JOUR: Need for Speed Most Wanted Remastered avec lien direct Archive.org !",
-    "🔧 CORRECTION: Remplacement du lien magnet par un lien de téléchargement direct stable !",
-    "🔗 LIEN MIS À JOUR: Bodycam - Nouveau lien Flashbang",
+    "� SYSTÈME RÉVOLUTIONNAIRE: Écran de chargement automatique après authentification",
+    "🖼️ BASE D'IMAGES COMPLÈTE: 152 jeux avec téléchargement automatique (IGDB + Steam)",
+    "📊 PROGRESSION TEMPS RÉEL: Barre de progression avec noms de jeux et pourcentages",
+    "⚡ EXPÉRIENCE FLUIDE: Lancement automatique de l'app après téléchargement",
+    "🛡️ SÉCURITÉ MAXIMALE: Architecture IPC sécurisée avec preload scripts",
+    "🎯 ZÉRO INTERVENTION: Les clients n'ont plus rien à faire manuellement",
+    "�🔗 LIEN MIS À JOUR: Bodycam - Nouveau lien Flashbang",
     "🔗 LIEN MIS À JOUR: City Car Driving - Nouveau lien Flashbang",
     "🆕 NOUVEAUX JEUX: Gold Mining Simulator, PayDay 2 106 DLC, City Car Driving",
     "🔗 LIEN MIS À JOUR: REPO - Nouveau lien Flashbang",
@@ -89,7 +79,6 @@
     "🐒 BLACK MYTH WUKONG: Action RPG mythologique ajouté !",
     "⚔️ MORTAL KOMBAT 11: Ultimate Edition ajouté - Fighting (55.2 GB) !",
     "🔫 CALL OF DUTY: Modern Warfare Remastered ajouté - FPS !",
-    "🏎️ MISE À JOUR: Nouveau lien magnet pour Need for Speed Most Wanted Remastered (DODI Repack) !",
     "🏎️ MISE À JOUR: Nouveaux liens Flashbang pour NFS Undercover & Most Wanted Black !",
     "🏎️ MISE À JOUR: Nouveau lien Flashbang pour Need for Speed Most Wanted Black Edition !",
     "🏎️ MISE À JOUR: Nouveau lien Mediafire pour Need for Speed Most Wanted Black Edition !",
@@ -174,5 +163,42 @@
     "RUST & BODYCAM - NOUVEAUX LIENS FLASHBANG MIS À JOUR !",
     "NOUVEAU: S.T.A.L.K.E.R. 2: Heart of Chornobyl v1.5.0 DISPONIBLE !",
     "CETTE VERSION RÉSOUT DÉFINITIVEMENT LES ERREURS MÉMOIRE !"
-  ]
+  ],
+  "technicalDetails": {
+    "loadingScreen": {
+      "enabled": true,
+      "triggeredAfter": "authentication",
+      "features": [
+        "Real-time progress bar",
+        "Game name display", 
+        "Download percentage",
+        "Elegant CSS animations",
+        "Auto-close after completion"
+      ]
+    },
+    "imageSystem": {
+      "totalGames": 152,
+      "sources": ["IGDB API", "Steam CDN"],
+      "format": "JPG",
+      "autoDownload": true,
+      "localPath": "./assets/games/",
+      "progressTracking": true
+    },
+    "security": {
+      "ipcCommunication": "preload scripts",
+      "nodeJsAccess": false,
+      "contextIsolation": true,
+      "sandboxed": true
+    }
+  },
+  "releaseInfo": {
+    "buildNumber": "2.3.2.20250917",
+    "buildDate": "2025-09-17T22:35:29Z", 
+    "platform": "Windows 10/11",
+    "architecture": "x64",
+    "installer": "ModzApp-Setup-2.3.2.exe",
+    "size": "95MB",
+    "compiler": "electron-builder 24.13.3",
+    "electron": "28.3.3"
+  }
 }
