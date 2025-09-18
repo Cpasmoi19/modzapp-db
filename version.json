@@ -1,8 +1,11 @@
 {
-  "version": "2.8.2",
-  "lastUpdate": "2025-09-18T23:00:00Z",
+  "version": "2.8.3",
+  "lastUpdate": "2025-09-18T23:30:00Z",
   "totalGames": 151,
   "changelog": [
+    "🎯 HOTFIX v2.8.3: Images dupliquées et incorrectes corrigées - 91 jeux mis à jour !",
+    "🔧 DOUBLONS ÉLIMINÉS: Chaque jeu a maintenant sa propre image Steam unique !",
+    "✅ CORRESPONDANCES EXACTES: TEKKEN 8, DOOM, Watch Dogs, NFS, etc. avec vraies images !",
     "🎯 HOTFIX v2.8.2: 100% des images corrigées - Plus aucun placeholder !",
     "📸 IMAGES COMPLETES: 151/151 jeux avec vraies images Steam (était 13/151) !",
     "🔧 CORRECTION AUTOMATIQUE: Scripts intelligents pour remplacer placeholders !",
