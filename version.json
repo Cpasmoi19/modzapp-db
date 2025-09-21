@@ -1,7 +1,7 @@
 {
-  "version": "2.4.5",
-  "lastUpdate": "2025-09-21T18:45:00Z",
-  "totalGames": 166,
+  "version": "2.4.6",
+  "lastUpdate": "2025-09-21T20:00:00Z",
+  "totalGames": 167,
   "changelog": [
     "🔧 CORRECTION MAJEURE: Logique de détection stricte - Fini les faux positifs !",
     "🎯 FIX DÉSINSTALLATION: Correspondances exactes pour une désinstallation fiable !",
