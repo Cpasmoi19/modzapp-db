@@ -355,7 +355,7 @@
     "id": "peak",
     "name": "PEAK",
     "description": "PEAK - Extreme Sports Game",
-    "downloadUrl": "https://download131.uploadhaven.com/1/application/zip/sfSi1GGKCLCqF9sIDJeByLlgS9N3akxKImqqPaUS.zip?key=DEUSXjxWxkFuiM6R26nwXg&expire=1753819112&filename=PEAK.v1.9.a.Multiplayer.zip",
+    "downloadUrl": "magnet:?xt=urn:btih:2XDVJEIX3TB2IUZUWUPZZJ5YD5ZWCPSW&dn=Peak%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
     "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2412160/header.jpg",
     "size": "8 GB",
     "category": "Sport",
@@ -829,16 +829,6 @@
     "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2406770/header.jpg",
     "size": "20 GB",
     "category": "FPS",
-    "status": "available"
-  },
-  {
-    "id": "liars-bar",
-    "name": "Liar's Bar",
-    "description": "Liar's Bar - Social Deduction Game",
-    "downloadUrl": "https://flashbang.sh/dl/P0nQrLChR3hvom1GS9x2U28jRYv13xAKvlD08tMI0sDob7XS4dwvyxVmiQNELXvkBCsw6RFttbR4bbsHZ9tdaSNWbVJgLkVrdSJS1OfjH76W9v_L2LoQ91w4-524GQ?v=1757872663-OGwI1HCXDkBIiI0bapLEMJCYvKd9I9QI1NGX3vMQerc%3D",
-    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3097560/header.jpg",
-    "size": "3 GB",
-    "category": "Simulation",
     "status": "available"
   },
   {
@@ -1509,6 +1499,96 @@
     "imageUrl": "http://i80.fastpic.ru/big/2016/0606/33/a5c4b11fcb8b5855e38df671cf631c33.jpg",
     "size": "10 GB",
     "category": "Strategy",
+    "status": "available"
+  },
+  {
+    "id": "hollow-knight-silksong",
+    "name": "Hollow Knight Silksong",
+    "description": "Hollow Knight Silksong [DODI Repack] - Suite du célèbre metroidvania",
+    "downloadUrl": "magnet:?xt=urn:btih:3HLF57NQMPAWN6C7Q2LVPNVP6BZVRMH2&dn=Hollow%20Knight%20Silksong%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+    "imageUrl": "https://i8.imageban.ru/out/2025/09/04/c51139f2971993ec759da8bf1c4cc8a8.jpg",
+    "size": "8 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "hollow-knight",
+    "name": "Hollow Knight",
+    "description": "Hollow Knight [DODI Repack] - Metroidvania acclamé par la critique",
+    "downloadUrl": "magnet:?xt=urn:btih:XWJLEXSADBWGF53UV25UIFBZIYNYT6NH&dn=Hollow%20Knight%20-%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+    "imageUrl": "https://i4.imageban.ru/out/2021/06/07/7402b5c92e656377941fe9e365b4ba56.jpg",
+    "size": "4 GB",
+    "category": "Action",
+    "status": "available"
+  },
+  {
+    "id": "clair-obscur-expedition-33-deluxe",
+    "name": "Clair Obscur: Expedition 33 DELUX EDITION",
+    "description": "Clair Obscur Expedition 33 [DODI Repack] - RPG d'aventure mystérieux",
+    "downloadUrl": "magnet:?xt=urn:btih:P3JOS34I5THZXHUPRYBPT754VOWXWDOI&dn=Clair%20Obscur%20Expedition%2033%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+    "imageUrl": "https://i8.imageban.ru/out/2025/04/25/1d6529a47f6f03f5bde324377e3ff1e1.jpg",
+    "size": "25 GB",
+    "category": "RPG",
+    "status": "available"
+  },
+  {
+    "id": "roadcraft-rebuild-edition",
+    "name": "RoadCraft: Rebuild Edition",
+    "description": "RoadCraft [DODI Repack] - Simulation de construction routière",
+    "downloadUrl": "magnet:?xt=urn:btih:KKYVPBPT7JJD3WIPIRVLQSETQGGPWYLO&dn=RoadCraft%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+    "imageUrl": "https://i1.imageban.ru/out/2025/05/21/c1ccaa26db5a57b902288394c377303d.jpg",
+    "size": "12 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "dirt-rally-2-deluxe",
+    "name": "DiRT Rally 2.0 Deluxe Edition",
+    "description": "DiRT Rally 2 [DODI Repack] - Simulation de rallye réaliste",
+    "downloadUrl": "magnet:?xt=urn:btih:KSJ6H3QZGYHKITG4CZZME4N3JPH52QV2&dn=DiRT%20Rally%202%20-%20%5BDODI%20Repack%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce",
+    "imageUrl": "https://i109.fastpic.ru/big/2019/0223/17/eed46ecee9fe0591ec228de04102cd17.jpg",
+    "size": "50 GB",
+    "category": "Racing",
+    "status": "available"
+  },
+  {
+    "id": "it-takes-two",
+    "name": "It Takes Two",
+    "description": "It Takes Two [DODI Repack] - Aventure coopérative primée",
+    "downloadUrl": "magnet:?xt=urn:btih:NLOOAS5YRHFTXJ7NGOJHW3VZG4WGDIO3&dn=It%20Takes%20Two%20-%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+    "imageUrl": "https://i6.imageban.ru/out/2021/03/26/85a462020e44a39dc2bbc7adb8de34f8.jpg",
+    "size": "20 GB",
+    "category": "Adventure",
+    "status": "available"
+  },
+  {
+    "id": "a-way-out",
+    "name": "A Way Out",
+    "description": "A Way Out [DODI Repack] - Aventure coopérative d'évasion",
+    "downloadUrl": "magnet:?xt=urn:btih:FS6WFI3OBOIHYE4JX765GAR36B66QJFY&dn=A%20Way%20Out%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+    "imageUrl": "http://i106.fastpic.ru/big/2018/1114/f5/df0618f817c71a583c87aba7af59a3f5.jpg",
+    "size": "15 GB",
+    "category": "Adventure",
+    "status": "available"
+  },
+  {
+    "id": "dale-dawson-stationery",
+    "name": "Dale & Dawson Stationery Supplies",
+    "description": "Dale & Dawson - Simulation de bureau humoristique",
+    "downloadUrl": "magnet:?xt=urn:btih:354C1CE3C7841310097B35F621FC9C888481962D&dn=Dale+%26amp%3B+Dawson+Stationery+Supplies&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920570/header.jpg",
+    "size": "3 GB",
+    "category": "Simulation",
+    "status": "available"
+  },
+  {
+    "id": "another-crabs-treasure-deluxe",
+    "name": "Another Crab's Treasure: Deluxe Edition",
+    "description": "Another Crab's Treasure [FitGirl Repack] - Aventure sous-marine unique",
+    "downloadUrl": "magnet:?xt=urn:btih:C55E9051801C8A5CDD171F92CB1A39885B9DA916&dn=Another+Crab%26%23039%3Bs+Treasure%3A+Deluxe+Edition+%28v2.0.000.3+%2B+Bonus+Soundtrack%2C+MULTi11%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+2+GB%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+    "imageUrl": "https://i7.imageban.ru/out/2024/05/13/d7f76fec22674216ed57c808803dcbea.jpg",
+    "size": "8 GB",
+    "category": "Adventure",
     "status": "available"
   }
 ]
