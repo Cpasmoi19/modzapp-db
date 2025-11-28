@@ -1881,13 +1881,24 @@
     "status": "available"
   },
   {
-    "id": "drive-beyond-horizons",
-    "name": "Drive Beyond Horizons",
-    "description": "Drive Beyond Horizons - Open world driving",
-    "downloadUrl": "magnet:?xt=urn:btih:f3b873070e865f4914c2a505e3367e90f2aaf461&dn=Drive%20Beyond%20Horizons&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
-    "imageUrl": "https://cfinder.xyz/uploads/DriveBeyondHorizons.png",
+      "id": "drive-beyond-horizons",
+      "name": "Drive Beyond Horizons",
+      "description": "Drive Beyond Horizons - Open world driving",
+      "downloadUrl": "magnet:?xt=urn:btih:f3b873070e865f4914c2a505e3367e90f2aaf461&dn=Drive%20Beyond%20Horizons&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+      "imageUrl": "https://cfinder.xyz/uploads/DriveBeyondHorizons.png",
+      "size": "N/A",
+      "category": "Racing",
+      "status": "available"
+    }
+  ,
+  {
+    "id": "avatar-the-game",
+    "name": "James Cameron’s Avatar: The Game",
+    "description": "James Cameron’s Avatar: The Game [DODI Repack] - Action/Aventure sur Pandora",
+    "downloadUrl": "magnet:?xt=urn:btih:JJQFY66DPENRI4X3ODPM57YLBXP7KYHX&dn=AVATAR%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+    "imageUrl": "https://via.placeholder.com/460x215/2a475e/ffffff?text=James%20Cameron%E2%80%99s%20Avatar%3A%20The%20Game",
     "size": "N/A",
-    "category": "Racing",
+    "category": "Action",
     "status": "available"
   }
 ]
