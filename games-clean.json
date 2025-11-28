@@ -1899,5 +1899,35 @@
         "size":  "N/A",
         "category":  "Action",
         "status":  "available"
+    },
+    {
+        "id":  "mount-and-blade-2-bannerlord-deluxe",
+        "name":  "Mount & Blade II: Bannerlord Digital Deluxe Edition",
+        "description":  "Mount & Blade II: Bannerlord [DODI Repack] - Stratégie/RPG médiéval",
+        "downloadUrl":  "magnet:?xt=urn:btih:6OSR6NGG6BUIH6EQONSNEXYFNGNCQQFP\u0026dn=Mount%20and%20Blade%20II%20Bannerlord%20%5BDODI%20Repack%5D\u0026tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+        "imageUrl":  "https://i1.imageban.ru/out/2025/11/27/ad12510ac77fa23da80a0ae7bbb91f8e.jpg",
+        "size":  "N/A",
+        "category":  "Strategy",
+        "status":  "available"
+    },
+    {
+        "id":  "the-guild-3",
+        "name":  "The Guild 3",
+        "description":  "The Guild 3 [DODI Repack] - Simulation/gestion médiévale",
+        "downloadUrl":  "magnet:?xt=urn:btih:RQSVNXC4TDA5X76EBK34MBK3NMEVMTJU\u0026dn=The%20Guild%203%20%5BDODI%20Repack%5D\u0026tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+        "imageUrl":  "https://i7.imageban.ru/out/2022/06/14/3ab296629fc34117c2aadcc4b8d9dcac.jpg",
+        "size":  "N/A",
+        "category":  "Simulation",
+        "status":  "available"
+    },
+    {
+        "id":  "dispatch-complete-deluxe",
+        "name":  "Dispatch: Complete Digital Deluxe",
+        "description":  "Dispatch [DODI Repack] - Aventure narrative et enquête",
+        "downloadUrl":  "magnet:?xt=urn:btih:5UBZZNDWHRIKU2OS77RQ5QQOZGMDL24M\u0026dn=Dispatch%20%5BDODI%20Repack%5D\u0026tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce",
+        "imageUrl":  "https://i7.imageban.ru/out/2025/11/12/fe40942c761344bf53624988ea948493.jpg",
+        "size":  "N/A",
+        "category":  "Action",
+        "status":  "available"
     }
 ]
